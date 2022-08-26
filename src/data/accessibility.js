@@ -1,185 +1,486 @@
 export const accessibilityCollection = {
-	name: "Accessibility",
+	name: "FrontEnd",
 	areas: [
 		{
+			name: "HTML",
 			skills: [
 				{
-					name: "The why",
+					name: "Basics",
 					description: {
-						text: "Learn what accessibility is and why it is important.",
+						text: "It is used on the frontend and gives the structure to the webpage.",
 						links: [
-							["Google Devs - Accessibility Fundamentals", "https://developers.google.com/web/fundamentals/accessibility/"],
-							["A11ycasts with Rob Dodson", "https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g"],
-							["Udacity - Chromevox Lite", "http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/"],
-							["Dev.to - Why Accessibility Matters", "https://dev.to/lhoffmanwg1/why-accessibility-matters-39nl"],
-							["Abilitynet - Why Accessibility Matters", "https://www.abilitynet.org.uk/why-accessibility-matters"],
-							["Udacity - Web Accessibility", "https://www.udacity.com/course/web-accessibility--ud891"],
-							["Youtube - Headings, Landmarks, and Tabs", "https://www.youtube.com/watch?v=HE2R86EZPMA"],
+							["", ""],
+							["", ""],
+							["", ""],
 						]
 					}
 				},
 				{
-					name: "Screen Readers",
+					name: "Semantic HTML",
 					description: {
-						text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+						text: "Semantic element clearly describes its meaning to both the browser and the developer.",
 						links: [
-							["The A11Y Project - Screen Reader Myths", "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/"],
-							["The A11Y Project - NVDA Screen Reader", "https://a11yproject.com/posts/getting-started-with-nvda/"],
-							["The A11Y Project - OS X Voiceover", "https://a11yproject.com/posts/getting-started-with-voiceover/"],
-							["Webaim - Screen Reader Survey", "https://webaim.org/projects/screenreadersurvey7/"]
+							["", ""],
+							["", ""],
+							["", ""],
 						]
 					}
 				},
 				{
-					name: "Accessibility tree",
+					name: "Forms and Validations",
 					description: {
-						text: "Learn about the accessibility tree and how assistive technology uses it.",
+						text: "Client-side form validation helps ensure data submitted matches the requirements set forth in the various form controls.",
 						links: [
-							["Google Devs - The Accessibility Tree", "https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree"]
-						]
-					},
-					skills: [
-						{
-							name: "ARIA",
-							description: {
-								text: "Learn how to use ARIA descriptions an labels to help assistive technology understanding your website.",
-								links: [
-									["Google Devs - ARIA Labels", "https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships"],
-									["Google Devs - Hiding and updating content", "https://developers.google.com/web/fundamentals/accessibility/semantics-aria/hiding-and-updating-content"],
-									["The A11Y Project - ARIA States", "https://a11yproject.com/posts/ARIA-states/"],
-									["The A11Y Project - ARIA Properties", "https://a11yproject.com/posts/ARIA-properties/"],
-								]
-							}
-						},
-						{
-							name: "Accessible HTML",
-							description: {
-								text: "Learn how to write HTML in such as way that assistive technology better understands it.",
-								links: [
-									["Google Devs - Introduction to Semantics", "https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/"],
-									["MDN - Accessibility HTML", "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML"],
-									["Webaim - Skip navigation", "https://webaim.org/techniques/skipnav/"],
-									["w3c - Headings", "https://www.w3.org/WAI/tutorials/page-structure/headings/"],
-									["Freecodecamp - Semantic Elements", "https://guide.freecodecamp.org/html/html5-semantic-elements/"]
-								]
-							},
-							skills: [
-								{
-									name: "Alt text",
-									description: {
-										text: "Learn how to use the alt attribute to provide a useful text alternative to this image.",
-										links: [
-											["Google Devs - Text Alternatives for Images", "https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/text-alternatives-for-images"],
-											["Webaim - Accessible Images", "https://webaim.org/techniques/images/"],
-											["Webaim - Alternative text", "https://webaim.org/techniques/alttext/"],
-										]
-									}
-								}
-							]
-						},
-						{
-							name: "Accessible CSS",
-							description: {
-								text: "Learn how to write CSS in such as way that assistive technology better understands it.",
-								links: [
-									["Webaim - CSS", "https://webaim.org/techniques/css/"]
-								]
-							}
-						},
-					]
-				},
-				{
-					name: "Accessible forms",
-					description: {
-						text: "Learn how to build accessible forms that makes it usable to as many people as possible.",
-						links: [
-							["Webaim - Forms", "https://webaim.org/techniques/forms/"],
-							["Itnext - Form Accessibility Gudie", "https://itnext.io/form-accessibility-a-practical-guide-4062b7e2dd14"]
+							["", ""],
+							["", ""],
+							["", ""],
+							["", ""]
 						]
 					}
 				},
 				{
-					name: "UI States",
+					name: "Accessibility",
 					description: {
-						text: "Learn how to make the state of each UI element clear.",
+						text: "Web accessibility means that websites, tools, and technologies are designed and developed in such a way that people with disabilities can use them easily.",
 						links: [
-							["Google Devs - Accessible Styles", "https://developers.google.com/web/fundamentals/accessibility/accessible-styles"]
+							["", ""],
+							["", ""],
 						]
 					}
 				},
 				{
-					name: "Keyboard Accessibility",
+					name: "SEO",
 					description: {
-						text: "Learn how to make it easy for keyboard users to navigate your site.",
+						text: "SEO or Search Engine Optimization is the technique used to optimize your website for better rankings on search engines such as Google, Bing etc.",
 						links: [
-							["Webaim - Keyboard", "https://webaim.org/techniques/keyboard/"],
-							["Smashing Magazine - Web with just a keyboard", "https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/"]
-						]
-					},
-					skills: [
-						{
-							name: "Focus",
-							description: {
-								text: "Learn how to create a sensible tab order and how to make it easy for the users to locate the currently focused element.",
-								links: [
-									["web.dev - Control focus with tabindex", "https://web.dev/control-focus-with-tabindex/"],
-									["Google Devs - Focus", "https://developers.google.com/web/fundamentals/accessibility/focus/"],
-									["Google Devs - Dom Order Matters", "https://developers.google.com/web/fundamentals/accessibility/focus/dom-order-matters"],
-									["Google Devs - Using Tabindex", "https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex"],
-									["Google Devs - Track Focus", "https://developers.google.com/web/tools/chrome-devtools/accessibility/focus"],
-									["MDN - :focus-visible", "https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible"],
-									["MDN - :focus-within", "https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within"]
-								]
-							}
-						}
-					]
-				},
-				{
-					name: "Accessible Colors",
-					description: {
-						text: "Learn how to select colors in such a way that users, including those with visual disabilities, can perceive the content on the page.",
-						links: [
-							["Webaim - Contrast and Color", "https://webaim.org/articles/contrast/"],
-							["The A11Y Project - Check contrast", "https://a11yproject.com/posts/check-contrast-with-mobile-device/"],
-							["The A11Y Project - What is color contrast?", "https://a11yproject.com/posts/what-is-color-contrast/"],
-							["Designing accessible color systems", "https://stripe.com/en-dk/blog/accessible-color-systems"],
+							["", ""],
+							["", ""]
 						]
 					}
-				},
-				{
-					name: "Laws & Policies",
-					description: {
-						text: "Learn about the governmental policies related to web accessibility.",
-						links: [
-							["W3C - Laws & Policies", "https://www.w3.org/WAI/policies/"],
-							["Webaim - Laws around the world", "https://webaim.org/articles/laws/world/"],
-							["Webaim - Section 508", "https://webaim.org/standards/508/checklist"],
-							["Webaim - WCAG 2 Checklist", "https://webaim.org/standards/wcag/checklist"],
-							["A11Y.dev - Lawsuits", "https://a11y.dev/470-digital-accessibility-cases-were-filed-in-q3-2018/"],
-						]
-					},
-					skills: [
-						{
-							name: "Audits",
-							description: {
-								text: "Learn how to conduct an accessibility review to improve the overall experience of using your site. Remember, good accessibility equals good UX!",
-								links: [
-									["web.dev - Accessibility audits", "https://web.dev/lighthouse-accessibility"],
-									["Google Devs - How to review", "https://developers.google.com/web/fundamentals/accessibility/how-to-review"],
-									["Webaim - Accessibility Tools", "https://webaim.org/articles/tools/"],
-									["Google Devs - Accessibility Reference", "https://developers.google.com/web/tools/chrome-devtools/accessibility/reference"],
-									["Webaim - Wave", "http://wave.webaim.org/"],
-									["Google Chrome - NoCoffee Extension", "https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl"],
-									["Digital A11Y - Accessibility Plugins", "https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/"],
-									["Google Devs - Accessibility for teams", "https://developers.google.com/web/fundamentals/accessibility/a11y-for-teams"],
-									["WCAG 2.0 checklists", "https://www.wuhcag.com/wcag-checklist/"],
-									["How to Meet WCAG (Quick Reference)", "https://www.w3.org/WAI/WCAG21/quickref/"],
-								]
-							}
-						}
-					]
 				}
 			]
-		}
+		},
+		{
+			name: "CSS",
+			skills: [
+				{
+					name: "Basics",
+					description: {
+						text: "CSS is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+							["", ""],
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Layouts",
+					description: {
+						text: "Float, grid, flexbox, positioning, display and box model are some of the key topics that are used for making layouts.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+							["", ""],
+							["", ""]
+						]
+					}
+				},
+				{
+					name: "Responsive design and Media Queries",
+					description: {
+						text: "Responsive Web Designing is the technique to make your webpages look good on all screen sizes.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "CSS Architecture",
+					description: {
+						text: "CSS is notoriously difficult to manage in large, complex, rapidly-iterated systems. A CSS architecture brings reasoning to CSS authoring.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""]
+						]
+					},
+				},
+				{
+					name: "CSS Preprocessors",
+					description: {
+						text: "CSS Preprocessors are scripting languages that extend the default capabilities of CSS.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					},
+				},
+			]
+		},
+		{
+			name: "JavaScript",
+			skills: [
+				{
+					name: "Syntax and Constructs",
+					description: {
+						text: "JavaScript allows you to add interactivity to your pages.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "DOM Manipulation",
+					description: {
+						text: "The Document Object Model (DOM) connects web pages to scripts or programming languages.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Fetch API / Ajax(XHR)",
+					description: {
+						text: "Ajax is the technique that lets us send and receive the data asynchronously from the servers.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "ES6+ and modular JavaScript",
+					description: {
+						text: "ECMAScript 2015 or ES2015 is a significant update to the JavaScript programming language.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Hoisting",
+					description: {
+						text: "Hoisting allows functions to be safely used in code before they are declared.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Bubbling",
+					description: {
+						text: "Event bubbling refers to the characteristic that when an event occurs in a specific screen element, the event is transmitted to higher screen elements.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Scope",
+					description: {
+						text: "The scope is the current context of execution in which values and expressions are visible or can be referenced.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Prototype",
+					description: {
+						text: "The prototype is an object that is associated with every functions and objects by default in JavaScript.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Shadow DOM",
+					description: {
+						text: "Shadow DOM refers to the ability of the browser to include a subtree of DOM elements into the rendering of a document.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Web Assembly",
+					description: {
+						text: "WebAssembly is a new type of code that can be run in modern web browsers.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				}
+			]
+		},
+		{
+			name: "Package Managers",
+			skills: [
+				{
+					name: "npm",
+					description: {
+						text: "Npm is a package manager for the JavaScript programming language maintained by npm.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "yarn",
+					description: {
+						text: "Yarn is a software packaging system developed in 2016 by Facebook for Node.js JavaScript runtime environment.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+			]
+		},
+		{
+			name: "Build Tools",
+			skills: [
+				{
+					name: "Task Runners",
+					description: {
+						text: "Task Runner is a default implementation of a task runner that is provided by AWS Data Pipeline.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					},
+					skills: [
+						{
+							name: "npm scripts",
+							description: {
+								text: "Npm scripts are the entries in the scripts field of the package.json file.",
+								links: [
+									["", ""],
+									["", ""],
+									["", ""],
+									["", ""]
+								]
+							},
+						},
+					]
+				},
+				{
+					name: "Linters and Formatters",
+					description: {
+						text: "A linter is a tool used to analyze code and discover bugs, syntax errors, stylistic inconsistencies, and suspicious constructs.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					},
+					skills: [
+						{
+							name: "Prettier",
+							description: {
+								text: "Prettier is an opinionated code formatter with support for JavaScript, HTML, CSS, and more.",
+								links: [
+									["", ""],
+									["", ""],
+									["", ""],
+									["", ""]
+								]
+							},
+						},
+						{
+							name: "ESLint",
+							description: {
+								text: "With ESLint you can impose the coding standard using a certain set of standalone rules.",
+								links: [
+									["", ""],
+									["", ""],
+									["", ""],
+									["", ""]
+								]
+							},
+						},
+					]
+				},
+				{
+					name: "Module Bundlers",
+					description: {
+						text: "A module bundler is a tool that takes pieces of JavaScript and their dependencies and bundles them into a single file, usually for use in the browser.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					},
+					skills: [
+						{
+							name: "Webpack",
+							description: {
+								text: "Webpack is a module bundler.",
+								links: [
+									["", ""],
+									["", ""],
+									["", ""],
+									["", ""]
+								]
+							},
+						},
+						{
+							name: "Rollup",
+							description: {
+								text: "Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.",
+								links: [
+									["", ""],
+									["", ""],
+									["", ""],
+									["", ""]
+								]
+							},
+						},
+						{
+							name: "Parcel",
+							description: {
+								text: "Parcel is a web application bundler, differentiated by its developer experience.",
+								links: [
+									["", ""],
+									["", ""],
+									["", ""],
+									["", ""]
+								]
+							},
+						},
+					]
+				},
+			]
+		},
+		{
+			name: "Framework",
+			skills: [
+				{
+					name: "React.js",
+					description: {
+						text: "React is the most popular front-end JavaScript library for building user interfaces.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Angular",
+					description: {
+						text: "Angular is a component based front-end development framework built on TypeScript.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Vue.js",
+					description: {
+						text: "Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Reactstrap",
+					description: {
+						text: "Reactstrap provides prebuilt Bootstrap 4 components that allow a great deal of flexibility and prebuilt validation.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Material UI",
+					description: {
+						text: "Material-UI is an open-source framework that features React components that implement Google’s Material Design.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "Bootstrap",
+					description: {
+						text: "Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+			]
+		},
+		{
+			name: "Static Site Generators",
+			skills: [
+				{
+					name: "Next.js",
+					description: {
+						text: "Next.js is an open-source development framework built on top of Node.js.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+				{
+					name: "GatasbyJS",
+					description: {
+						text: "Gatsby is a React-based open source framework with performance, scalability and security built-in.",
+						links: [
+							["", ""],
+							["", ""],
+							["", ""],
+						]
+					}
+				},
+			]
+		},
 	]
-};
+}
