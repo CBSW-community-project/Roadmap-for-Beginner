@@ -793,7 +793,7 @@ export const webcomponentsCollection = {
         {
           name: "CI/CD",
           description: {
-            text: "Learn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.",
+            text: "L earn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.",
             links: [],
           },
         },
@@ -829,13 +829,13 @@ export const webcomponentsCollection = {
           ],
         },
 
-        {
-          name: "Keep Learning",
-          description: {
-            text: "Learn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.",
-            links: [],
-          },
-        },
+        // {
+        //   name: "Keep Learning",
+        //   description: {
+        //     text: "Learn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.",
+        //     links: [],
+        //   },
+        // },
       ],
     },
   ],
