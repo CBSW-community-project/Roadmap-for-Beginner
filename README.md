@@ -1874,18 +1874,18 @@ Learn how to use Node.js.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#frameworks--libraries)
 
-## ➤ Frameworks & Libraries
+## ➤ DBA
 
-### lit-element
+### Postgres
 
-Learn how to use lit-element for creating fast, lightweight web components.
+PostgreSQL is an object-relational database system (ORDBMS).
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Flit-element.polymer-project.org" alt="Logo" /> lit-element](https://lit-element.polymer-project.org/)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Lightning-fast templates](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvaadin.com" alt="Logo" /> Vaadin - Creating a LitElement project](https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Web Components: from zero to hero, part three](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
-### Vue
+### Oracle
 
 Learn about Vue and how you can use it for building web apps.
 
@@ -1893,7 +1893,7 @@ Learn about Vue and how you can use it for building web apps.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcli.vuejs.org" alt="Logo" /> Vue - CLI](https://cli.vuejs.org/)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.taniarascia.com" alt="Logo" /> Getting Started with Vue](https://www.taniarascia.com/getting-started-with-vue/)
 
-### React
+### MYSQL
 
 Learn about React and how you can use it for building web apps.
 
@@ -1901,7 +1901,7 @@ Learn about React and how you can use it for building web apps.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - React](https://web.dev/react)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.taniarascia.com" alt="Logo" /> Getting Started with React](https://www.taniarascia.com/getting-started-with-react/)
 
-### Angular
+### certificate
 
 Learn about Angular and how you can use it for building web apps.
 
@@ -1909,21 +1909,13 @@ Learn about Angular and how you can use it for building web apps.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Angular](https://web.dev/angular)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcli.angular.io" alt="Logo" /> Angular - CLI](https://cli.angular.io/)
 
-### Svelte
+### advice
 
 Learn about Svelte and how it can convert your component into highly efficient imperative code.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte](https://svelte.dev/)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Svelte FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte - Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
-
-### Stencil
-
-Learn how Stencil can be used for generating small, fast web components.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fstenciljs.com" alt="Logo" /> Stencil](https://stenciljs.com/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Falligator.io" alt="Logo" /> Alligator - Getting Started With Stencil](https://alligator.io/stencil/getting-started/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodeburst.io" alt="Logo" /> How to Build Reusable Web Components Using Stenciljs](https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d)
 
 
 
