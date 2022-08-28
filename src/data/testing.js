@@ -1,5 +1,5 @@
 export const testingCollection = {
-	name: "Blockchain",
+	name: "BLOCKCHAIN",
 	areas: [
 		{
 			skills: [
