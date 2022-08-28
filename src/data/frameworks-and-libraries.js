@@ -1,4 +1,4 @@
-export const frameworksAndLibrariesCollection = {
+export const DataBaseAdministrationCollection = {
 	name: "Data Base Administration",
 	areas: [
 		{
