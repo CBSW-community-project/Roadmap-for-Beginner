@@ -39,11 +39,9 @@ export const frameworksAndLibrariesCollection = {
 				{
 					name: "certificate",
 					description: {
-						text: "Learn about Angular and how you can use it for building web apps.",
+						text: "Certification to become a database administrator.",
 						links: [
-							["Angular", "https://angular.io/"],
-							["web.dev - Angular", "https://web.dev/angular"],
-							["Angular - CLI", "https://cli.angular.io/"],
+							["license", "https://angular.io/"],
 						]
 					},
 				},
