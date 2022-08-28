@@ -18,18 +18,17 @@ export const frameworksAndLibrariesCollection = {
 				{
 					name: "Oracle",
 					description: {
-						text: "Learn about Vue and how you can use it for building web apps.",
+						text: "Learn to use Oracle.",
 						links: [
-							["Vue", "https://vuejs.org/"],
-							["Vue - CLI", "https://cli.vuejs.org/"],
-							["Getting Started with Vue", "https://www.taniarascia.com/getting-started-with-vue/"],
+							["Oracle basic syntax", "https://zsunn.tistory.com/entry/Oracle-Oracle-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95"],
+							["Oracle Advanced Syntax", "https://rutel.tistory.com/332"],
 						]
 					},
 				},
 				{
 					name: "MYSQL",
 					description: {
-						text: "Learn about React and how you can use it for building web apps.",
+						text: "Learn to use MYSQL.",
 						links: [
 							["React", "https://reactjs.org/"],
 							["web.dev - React", "https://web.dev/react"],
