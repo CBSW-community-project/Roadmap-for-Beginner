@@ -8,10 +8,10 @@ export const frameworksAndLibrariesCollection = {
 					description: {
 						text: "PostgreSQL is an object-relational database system (ORDBMS).",
 						links: [
-							["Pstgres의 기능", "https://d2.naver.com/helloworld/227936"],
-							["Postgres를 배워야 하는 이유", "https://azure.microsoft.com/ko-kr/resources/cloud-computing-dictionary/what-is-postgresql/"],
-							["PostgreSQL", "https://kimdubi.github.io/postgresql/pg_schema/"],
-							["PostgreSQL 특징", "http://www.incodom.kr/PostgreSQL"],
+							["Postgres Funtion", "https://d2.naver.com/helloworld/227936"],
+							["Why you should learn Postgres", "https://azure.microsoft.com/ko-kr/resources/cloud-computing-dictionary/what-is-postgresql/"],
+							["PostgreSQL?", "https://kimdubi.github.io/postgresql/pg_schema/"],
+							["PostgreSQL Features", "http://www.incodom.kr/PostgreSQL"],
 						]
 					}
 				},
