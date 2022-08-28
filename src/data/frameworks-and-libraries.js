@@ -30,9 +30,9 @@ export const frameworksAndLibrariesCollection = {
 					description: {
 						text: "Learn to use MYSQL.",
 						links: [
-							["React", "https://reactjs.org/"],
-							["web.dev - React", "https://web.dev/react"],
-							["Getting Started with React", "https://www.taniarascia.com/getting-started-with-react/"],
+							["MYSQL Install", "https://www.mysql.com/"],
+							["What is MYSQL", "http://www.tcpschool.com/mysql/mysql_intro_intro"],
+							["MYSQL basic syntax", "http://www.tcpschool.com/mysql/mysql_basic_syntax"],
 						]
 					},
 				},
