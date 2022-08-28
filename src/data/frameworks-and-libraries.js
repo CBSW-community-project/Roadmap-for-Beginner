@@ -6,7 +6,7 @@ export const frameworksAndLibrariesCollection = {
 				{
 					name: "Postgres",
 					description: {
-						text: "Learn how to use lit-element for creating fast, lightweight web components.",
+						text: "PostgreSQL is an object-relational database system (ORDBMS).",
 						links: [
 							["Pstgres의 기능", "https://d2.naver.com/helloworld/227936"],
 							["Postgres를 배워야 하는 이유", "https://azure.microsoft.com/ko-kr/resources/cloud-computing-dictionary/what-is-postgresql/"],
