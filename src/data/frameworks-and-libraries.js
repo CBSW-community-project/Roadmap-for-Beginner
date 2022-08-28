@@ -48,11 +48,11 @@ export const frameworksAndLibrariesCollection = {
 				{
 					name: "advice",
 					description: {
-						text: "Learn about Svelte and how it can convert your component into highly efficient imperative code.",
+						text: "Job information from seniors.",
 						links: [
-							["Svelte", "https://svelte.dev/"],
-							["Github - Svelte FAQ", "https://github.com/sveltejs/svelte/wiki/FAQ"],
-							["Svelte - Rethinking reactivity", "https://svelte.dev/blog/svelte-3-rethinking-reactivity"],
+							["CareerNet", "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=431"],
+							["Advice", "https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=quest_kor&logNo=220850787404"],
+							["Advice", "https://www.workingus.com/forums/topic/dba-%EA%B0%80-%EB%90%98%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%8D%B0%EC%9A%94-%EC%A1%B0%EC%96%B8%EB%B6%80%ED%83%81%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4/"],
 						]
 					},
 				},
