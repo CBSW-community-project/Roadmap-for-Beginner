@@ -1,5 +1,5 @@
 export const frameworksAndLibrariesCollection = {
-	name: "Frameworks & Libraries",
+	name: "DBA",
 	areas: [
 		{
 			skills: [
