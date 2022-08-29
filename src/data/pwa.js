@@ -70,7 +70,7 @@ export const pwaCollection = {
               },
             },
             {
-              name: "Java Script",
+              name: "JavaScript",
               description: {
                 text: "JavaScript allows you to add interactivity to your pages. ",
                 links: [
@@ -92,7 +92,7 @@ export const pwaCollection = {
           },
           skills: [
             {
-              name: "I/O",
+              name: "IO",
               description: {
                 text: "One of the important jobs of an Operating System is to manage various I/O devices",
                 links: [
@@ -281,7 +281,7 @@ export const pwaCollection = {
             },
             ////
             {
-              name: "Networking & Security & protocol",
+              name: "Networking Security protocol",
               description: {
                 text: "A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network.",
                 links: [
@@ -330,7 +330,7 @@ export const pwaCollection = {
                   },
                 },
                 {
-                  name: "SSL/TLS",
+                  name: "SSL TLS",
                   description: {
                     text: "Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are cryptographic protocols used to provide security in internet communications.",
                     links: [
