@@ -1,31 +1,17 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Roadmap-for-Beginner</h1>
 <p align="center">
-	Web Skills is a visual overview of useful skills to learn as a web developer. Go to <a href="https://andreasbm.github.io/web-skills" target="_blank" aria-label="Link to Web Skills">https://andreasbm.github.io/web-skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/andreasbm/web-skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
+	'Roadmap-for-Beginner'는 이제 막 개발을 시작한 사람들과 어떤 개발자가 될지 길을 정하지 못한 사람들을 위한 오픈소스 프로젝트입니다. 개발자라면 반드시 알아야 하지만 처음 개발을 시작할 땐 어려운 것들, 개발자는 어떤 직업을 얻을 수 있는지와 그 길을 가기 위해 배워야 할 것들을 보기 쉽게 정리해두었습니다. 이 프로젝트는 개발을 시작하려는 사람, 아직 직업을 정하지 못한 사람에게 도움이 될 것입니다.
 </p> 
-<p align="center">
-	<a href="http://andreasbm.github.io/web-skills" target="_blank">
-		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Web Skills Demo" width="800" />
-	</a>
-</p>
 <br />
 <details>
-<summary>📖 Table of Contents</summary>
+<summary>📖 목차</summary>
 <br />
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## ➤ Table of Contents
+## ➤ 목차
 
-* [➤ FAQ](#-faq)
-	* [What is Web Skills?](#what-is-web-skills)
-	* [How did you choose the skills?](#how-did-you-choose-the-skills)
-	* [How can I support you?](#how-can-i-support-you)
-	* [How can I get involved?](#how-can-i-get-involved)
-	* [How can I keep track of what skills I know?](#how-can-i-keep-track-of-what-skills-i-know)
-	* [I am overwhelmed! Help me!](#i-am-overwhelmed-help-me)
-	* [Why haven't you included XYZ Technology?](#why-havent-you-included-xyz-technology)
-	* [What does the "experimental" banner mean?](#what-does-the-experimental-banner-mean)
-	* [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)
+* [➤ 참여하기](#-faq)
 * [➤ Fundamentals](#-fundamentals)
 	* [HTML](#html)
 	* [Syntax](#syntax)
@@ -262,179 +248,6 @@
 		* [Cypress](#cypress)
 		* [Ava](#ava)
 	* [Best Practices](#best-practices-3)
-* [➤ Architecture & paradigms](#-architecture--paradigms)
-	* [Paradigms](#paradigms)
-	* [Programming Paradigms](#programming-paradigms)
-	* [Object Oriented Programming](#object-oriented-programming)
-		* [S.O.L.I.D](#solid)
-	* [Functional programming](#functional-programming)
-		* [Recursion](#recursion)
-		* [Higher-Order Functions](#higher-order-functions)
-		* [Currying](#currying)
-		* [Monads](#monads)
-	* [Architecture](#architecture)
-	* [Design Patterns](#design-patterns)
-		* [Singleton](#singleton)
-		* [Observer](#observer)
-		* [Prototype](#prototype-1)
-		* [Bridge](#bridge)
-		* [Proxy](#proxy)
-		* [Chain of responsibility](#chain-of-responsibility)
-		* [Constructor](#constructor)
-	* [CSS Methodologies](#css-methodologies)
-		* [BEM](#bem)
-		* [SMACSS](#smacss)
-		* [OOCSS](#oocss)
-* [➤ Team Collaboration](#-team-collaboration)
-	* [Version Control](#version-control)
-	* [Git](#git)
-		* [Github](#github)
-		* [Bitbucket](#bitbucket)
-	* [Management](#management)
-	* [Agile Development](#agile-development)
-		* [Scrum](#scrum)
-		* [Kanban](#kanban)
-	* [Waterfall Development](#waterfall-development)
-	* [Test Driven Development](#test-driven-development)
-* [➤ Design & UX](#-design--ux)
-	* [Color Theory](#color-theory)
-		* [Color Wheel](#color-wheel)
-	* [Typography](#typography)
-		* [Font Size](#font-size)
-		* [Line Spacing](#line-spacing)
-	* [C.R.A.P](#crap)
-		* [Contrast](#contrast)
-		* [Repetition](#repetition)
-		* [Alignment](#alignment)
-		* [Proximity](#proximity)
-	* [Consistency](#consistency)
-	* [Spacing](#spacing)
-	* [Error Handling](#error-handling)
-	* [Loading](#loading)
-	* [The Golden Ratio](#the-golden-ratio)
-	* [Mobile First](#mobile-first)
-		* [Hit Targets](#hit-targets)
-	* [Design Systems](#design-systems)
-		* [Material Design](#material-design)
-		* [Fluent Design](#fluent-design)
-	* [Accessibility](#accessibility)
-	* [Best Practices](#best-practices-4)
-* [➤ The Modern Web](#-the-modern-web)
-	* [Streams](#streams)
-		* [Media Streams](#media-streams)
-		* [Media Recorder](#media-recorder)
-		* [Web RTC](#web-rtc)
-		* [Screen Capture](#screen-capture)
-		* [Generators](#generators)
-	* [Speech Synthesis](#speech-synthesis)
-	* [Web Sockets](#web-sockets)
-	* [Geolocation](#geolocation)
-	* [Device orientation & motion](#device-orientation--motion)
-	* [Fullscreen](#fullscreen)
-	* [Variable Fonts](#variable-fonts)
-	* [HTTP/2](#http2)
-	* [Payment Request API](#payment-request-api)
-	* [Web Audio](#web-audio)
-	* [Observers](#observers)
-		* [Mutation Observer](#mutation-observer)
-		* [Intersection Observer](#intersection-observer)
-		* [Resize Observer](#resize-observer)
-		* [Performance Observer](#performance-observer)
-	* [Scrollsnapping](#scrollsnapping)
-	* [Web Assembly](#web-assembly)
-	* [Beacon](#beacon)
-	* [Clipboard](#clipboard)
-	* [Share](#share)
-	* [Performance API](#performance-api)
-	* [Gamepad API](#gamepad-api)
-	* [Speech Recognition](#speech-recognition)
-	* [Interaction Media Queries](#interaction-media-queries)
-	* [Browser Extensions](#browser-extensions)
-	* [Pointer Lock API](#pointer-lock-api)
-	* [Picture In Picture](#picture-in-picture)
-	* [Proxies](#proxies)
-	* [Houdini](#houdini)
-	* [Project Fugu](#project-fugu)
-	* [Web Authentication API](#web-authentication-api)
-		* [Credentials Manager API](#credentials-manager-api)
-	* [Native File System](#native-file-system)
-	* [Shape Detection](#shape-detection)
-	* [Web Bluetooth](#web-bluetooth)
-	* [Web USB](#web-usb)
-	* [Web XR](#web-xr)
-	* [Presentation](#presentation)
-	* [Network Information API](#network-information-api)
-* [➤ Algorithms & Data structures](#-algorithms--data-structures)
-	* [Data structures](#data-structures)
-	* [Arrays](#arrays)
-	* [Queues & Stacks](#queues--stacks)
-	* [Trees](#trees)
-		* [Binary Indexed Tree](#binary-indexed-tree)
-		* [Heap](#heap-1)
-		* [Red-black Tree](#red-black-tree)
-		* [Trie](#trie)
-		* [K-D Tree](#k-d-tree)
-	* [Hash Tables](#hash-tables)
-	* [Linked Lists](#linked-lists)
-	* [Graphs](#graphs)
-	* [Analysis](#analysis)
-	* [Time complexity](#time-complexity)
-		* [Cost model](#cost-model)
-		* [Order of Growth](#order-of-growth)
-		* [Big O notation](#big-o-notation)
-	* [Space Complexity](#space-complexity)
-	* [Algorithms](#algorithms)
-	* [Sorting](#sorting)
-		* [Insertion Sort](#insertion-sort)
-		* [Quicksort](#quicksort)
-		* [Mergesort](#mergesort)
-		* [Heapsort](#heapsort)
-	* [Searching](#searching)
-		* [Binary Search](#binary-search)
-		* [Breadth First Search](#breadth-first-search)
-		* [Depth First Search](#depth-first-search)
-		* [Dijkstra's Algorithm](#dijkstras-algorithm)
-		* [String Search](#string-search)
-	* [Hashing](#hashing)
-* [➤ Databases & Servers](#-databases--servers)
-	* [Databases](#databases)
-	* [Relational Databases](#relational-databases)
-		* [SQL](#sql)
-		* [MySQL](#mysql)
-		* [PostgreSQL](#postgresql)
-	* [Non-relational Databases](#non-relational-databases)
-		* [Redis](#redis)
-		* [MongoDB](#mongodb)
-	* [Data Modelling](#data-modelling)
-		* [ER Diagram](#er-diagram)
-		* [Keys](#keys)
-	* [Indexing](#indexing)
-	* [Data Integrity](#data-integrity)
-	* [Normalization](#normalization)
-		* [Functional Dependencies](#functional-dependencies)
-		* [Normal Forms](#normal-forms)
-	* [Transactions](#transactions)
-		* [ACID](#acid)
-		* [Serializability](#serializability)
-		* [Locks](#locks)
-			* [Deadlocks](#deadlocks)
-		* [Precedence graph](#precedence-graph)
-	* [Servers](#servers)
-	* [Architectural Models](#architectural-models)
-		* [Client-Server](#client-server)
-		* [Proxy Server](#proxy-server)
-		* [Peer-To-Peer](#peer-to-peer)
-	* [Middleware](#middleware)
-	* [Request-Reply Protocol](#request-reply-protocol)
-		* [UDP](#udp)
-		* [TCP](#tcp)
-	* [REST API](#rest-api)
-		* [CRUD](#crud)
-	* [Express](#express)
-	* [GraphQL](#graphql)
-	* [GNU/Linux](#gnulinux)
-	* [Docker](#docker)
-	* [SSH](#ssh)
 * [➤ Contributors](#-contributors)
 * [➤ License](#-license)
 </details>
@@ -442,7 +255,9 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
 
-## ➤ FAQ
+## ➤ 참여하기
+본 저장소에 기여하고 싶다면 링크()를 참고해 주세요.
+- 경어체를 사용합니다.
 
 ### What is Web Skills?
 
@@ -451,34 +266,6 @@ Web Skills is a visual overview of useful skills to learn as a web developer. It
 ### How did you choose the skills?
 		
 The skills are derived from a combination of 10 years of experience, a bachelor in software engineering and what I personally find to be the most useful to know on a day-to-day basis. Therefore, you'll notice that it's missing a lot of things. For example, I am not a PHP developer - because of this, PHP is not included. If you were a PHP developer, this overview would probably look a lot different.
-
-### How can I support you?
-
-I am spending my spare time building Web Skills for free because I want to help people get into web development. My motivation comes from people finding Web Skills useful, so if you like the project feel free to support me in any way you like! For example, you are more than welcome to become a [stargazer](https://github.com/andreasbm/web-skills/stargazers), share Web Skills with your friends and followers or create blog articles linking to Web Skills. If you want to, it will absolutely make my day if you [support me with a cup of coffee](https://www.buymeacoffee.com/AndreasMehlsen)! <3
-
-### How can I get involved?
-
-You are welcome to get involved in any way you like. If you want to, you can go to the [issues page](https://github.com/andreasbm/web-skills/issues) and help me fix the spelling, fix issues or suggest some new features. Any involvement is highly appreciated!
-
-### How can I keep track of what skills I know?
-
-If you scroll to the bottom of the page, you will find a button that says "Sign in with Google". If you click this button and sign in, you will be able to mark skills as completed.
-
-### I am overwhelmed! Help me!
-
-I totally understand if you are a bit overwhelmed by the amount of skills on the page – but I can assure you that this overview includes much, much more than most people will ever need to know. My main goal is to provide a visual overview of web development and make people hungry for learning more. One of the things I absolute love about being a developer is learning new skills. I think it is amazing to be in a field where you can do what you do for a lifetime and still learn something new! People cannot be an expert in every skill on this page so try to find what excites you the most and become really good at that.
-
-### Why haven't you included XYZ Technology?
-
-The skills are based on what I personally find to be the most useful on a day-to-day basis. If you think something really important is missing, you can always suggest it on the [issues page](https://github.com/andreasbm/web-skills/issues).
-
-### What does the "experimental" banner mean?
-
-When a skill is described as experimental, it means that the technology is immature and currently in the process of being added to the Web platform (or considered for addition). Think carefully before you start using experimental technology in any kind of production project. The definition used in Web Skills is based on the excellent definition used on [MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Conventions_definitions#Experimental). You are very welcome to open an issue if you see a skill you believe should be marked as "experimental" or have the banner removed.
-
-### How can I get in contact with you?
-
-Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehlsen) or take a look at [my website](https://andreasbm.github.io) if you want to learn more about what other projects I'm working on.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#fundamentals)
