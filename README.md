@@ -1099,8 +1099,10 @@ Decentralized oracle networks provide an increased level of security and fairnes
 
 * [ ] ["System Setting", "https://tommy-infosec.tistory.com/62"],
 * [ ] ["Oracle composition", "https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=native_manda&logNo=20201075682"]
-	
 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
+## ➤ [참고 링크](https://github.com/andreasbm/web-skills)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributors)
 
