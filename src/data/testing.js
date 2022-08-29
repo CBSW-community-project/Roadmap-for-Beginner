@@ -87,9 +87,8 @@ export const testingCollection = {
 					description: {
 						text: "The Ethereum Virtual Machine (EVM) is a dedicated software virtual stack that executes smart contract bytecode and is integrated into each Ethereum node.",
 						links: [
-							["dev.to - Continuous Integration Explained", "https://dev.to/markoa/continuous-integration-explained-59f9"],
-							["Continuous Integration Tutorial", "https://www.tutorialspoint.com/continuous_integration/index.htm"],
-							["Wikipedia - Continuous integration", "https://en.wikipedia.org/wiki/Continuous_integration"],
+							["What is EVM?", "https://opentutorials.org/course/2869/18360"],
+							["Working structure principle", "https://about-tech.tistory.com/entry/Blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-EVM-%EC%9E%91%EB%8F%99-%EA%B5%AC%EC%A1%B0-%EC%9B%90%EB%A6%AC"],
 						]
 					},
 					skills: [
@@ -98,10 +97,9 @@ export const testingCollection = {
 							description: {
 								text: "The Ethereum native token is the Ether (ETH), and it’s used to fuel operations on the blockchain.",
 								links: [
-									["Unit Testing Tutorial", "https://www.guru99.com/unit-testing-guide.html"],
-									["Wikipedia - Unit testing", "https://en.wikipedia.org/wiki/Unit_testing"],
-									["What is Unit Testing?", "https://www.tutorialspoint.com/software_testing_dictionary/unit_testing.htm"],
-									["The Arrange, Act and Assert (AAA) Pattern", "https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80"],
+									["Ethereum page", "https://ethereum.org/ko/"],
+									["About Ethereum", "https://kr.cointelegraph.com/ethereum-for-beginners/what-is-ethereum-a-beginners-guide-to-eth-cryptocurrency"],
+									["Wikipedia - Ethereum", "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80"],
 								]
 							},
 						},
@@ -110,9 +108,7 @@ export const testingCollection = {
 							description: {
 								text: "Polygon is a scaling solution that aims to provide multiple tools to improve the speed and reduce the cost and complexities of transactions on the Ethereum blockchain.",
 								links: [
-									["Integration Testing Tutorial", "https://www.guru99.com/integration-testing.html"],
-									["What is Integration Testing?", "https://www.tutorialspoint.com/software_testing_dictionary/integration_testing.htm"],
-									["Integration Testing", "http://softwaretestingfundamentals.com/integration-testing/"],
+									["What is Polygon?", "https://www.btcc.com/ko-KR/academy/crypto-basics/what-is-polygon"],
 								]
 							},
 						}
