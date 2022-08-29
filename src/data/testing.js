@@ -2,6 +2,7 @@ export const testingCollection = {
 	name: "Blockchain",
 	areas: [
 		{
+			name: "Basic",
 			skills: [
 				{
 					name: "Knowledge",
@@ -80,7 +81,11 @@ export const testingCollection = {
 						]
 					},
 				},
-				//
+			]
+		},
+		{
+			name: "EVM",
+			skills: [
 				{
 					name: "EVM Based",
 					description: {
@@ -117,6 +122,11 @@ export const testingCollection = {
 						}
 					],
 				},
+			]
+		},
+		{
+			name: "Smart",
+			skills: [
 				//
 				{
 					name: "Smart Contracts",
@@ -141,6 +151,11 @@ export const testingCollection = {
 						]
 					},
 				},
+			]
+		},
+		{
+			name: "dApp",
+			skills: [
 				//
 				{
 					name: "Dapp",
@@ -176,6 +191,11 @@ export const testingCollection = {
 						}
 					]
 				},
+			]
+		},
+		{
+			name: "Oracle",
+			skills: [
 				//
 				{
 					name: "Oracle",
