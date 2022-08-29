@@ -6,7 +6,7 @@ export const fundamentalsCollection = {
 				{
 					name: "Words",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
+						text: "Glossary for beginners.",
 						links: [
 							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
 							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
@@ -17,7 +17,7 @@ export const fundamentalsCollection = {
 				{
 					name: "Install IDE",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
+						text: "How to install an IDE for beginners.",
 						links: [
 							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
 							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
@@ -28,7 +28,7 @@ export const fundamentalsCollection = {
 				{
 					name: "Git",
 					description: {
-						text: "Learn how to make your content search-friendly.",
+						text: "How to use a feather for beginners.",
 						links: [
 							["web.dev - Discoverable", "https://web.dev/discoverable"],
 							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
@@ -40,7 +40,7 @@ export const fundamentalsCollection = {
 				{
 					name: "Job",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
+						text: "Job description for beginners.",
 						links: [
 							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
 							["SVG on the web", "https://svgontheweb.com/"],
