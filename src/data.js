@@ -3,7 +3,7 @@ import {webcomponentsCollection} from "./data/web-components.js";
 import {frontendCollection} from "./data/frontend.js";
 import {pwaCollection} from "./data/pwa.js";
 import {architectureCollection} from "./data/architecture-and-paradigmes.js";
-import {buildtoolsCollection} from "./data/build-tools.js";
+import {androidCollection} from "./data/android.js";
 import {testingCollection} from "./data/testing.js";
 import {frameworksAndLibrariesCollection} from "./data/frameworks-and-libraries.js";
 import {modernCollection} from "./data/modern.js";
@@ -20,7 +20,7 @@ export const collections = [
 	frontendCollection,
 	webcomponentsCollection,
 	pwaCollection,
-	buildtoolsCollection,
+	androidCollection,
 	frameworksAndLibrariesCollection,
 	testingCollection,
 	architectureCollection,

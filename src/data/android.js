@@ -1,4 +1,4 @@
-export const buildtoolsCollection = {
+export const androidCollection = {
 	name: "Android",
 	areas: [
 		{
