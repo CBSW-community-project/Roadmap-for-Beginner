@@ -57,133 +57,114 @@ Job description for beginners.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#accessibility)
 
-## ➤ Accessibility
+## ➤ FrontEnd
 
-### The why
+### HTML
 
-Learn what accessibility is and why it is important.
+### Basics
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Accessibility Fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fudacity.github.io" alt="Logo" /> Udacity - Chromevox Lite](http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> Dev.to - Why Accessibility Matters](https://dev.to/lhoffmanwg1/why-accessibility-matters-39nl)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.abilitynet.org.uk" alt="Logo" /> Abilitynet - Why Accessibility Matters](https://www.abilitynet.org.uk/why-accessibility-matters)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.udacity.com" alt="Logo" /> Udacity - Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Headings, Landmarks, and Tabs](https://www.youtube.com/watch?v=HE2R86EZPMA)
+Learn what FrontEnd is and why it is important.
 
-### Screen Readers
+* [ ] ["W3Schools: Learn HTML", "https://www.w3schools.com/html/html_intro.asp"],
+* [ ] ["HTML Full Course - Build a Website Tutorial", "https://www.youtube.com/watch?v=pQN-pnXPaVg"]
 
-Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.
+### Semantic HTML
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - Screen Reader Myths](https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - NVDA Screen Reader](https://a11yproject.com/posts/getting-started-with-nvda/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - OS X Voiceover](https://a11yproject.com/posts/getting-started-with-voiceover/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Screen Reader Survey](https://webaim.org/projects/screenreadersurvey7/)
+Learn what Semantic HTML is and why it is important.
 
-### Accessibility tree
+* [ ] ["W3Schools: Semantic HTML", "https://www.w3schools.com/html/html5_semantic_elements.asp"],
+* [ ] ["How To Write Semantic HTML", "https://hackernoon.com/how-to-write-semantic-html-dkq3ulo"]
 
-Learn about the accessibility tree and how assistive technology uses it.
+### Forms and Validations
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - The Accessibility Tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
+Learn what Semantic HTML is and why it is important.
 
-#### ARIA
+* [ ] ["W3Schools: Semantic HTML", "https://www.w3schools.com/html/html5_semantic_elements.asp"],
+* [ ] ["How To Write Semantic HTML", "https://hackernoon.com/how-to-write-semantic-html-dkq3ulo"]
 
-Learn how to use ARIA descriptions an labels to help assistive technology understanding your website.
+### Accessibility
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - ARIA Labels](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Hiding and updating content](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/hiding-and-updating-content)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - ARIA States](https://a11yproject.com/posts/ARIA-states/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - ARIA Properties](https://a11yproject.com/posts/ARIA-properties/)
+### SEO
 
-#### Accessible HTML
+###  CSS
 
-Learn how to write HTML in such as way that assistive technology better understands it.
+### Basics
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Introduction to Semantics](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Accessibility HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Skip navigation](https://webaim.org/techniques/skipnav/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> w3c - Headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fguide.freecodecamp.org" alt="Logo" /> Freecodecamp - Semantic Elements](https://guide.freecodecamp.org/html/html5-semantic-elements/)
+### Layouts
 
-##### Alt text
+### Responsive design and Media Queries
 
-Learn how to use the alt attribute to provide a useful text alternative to this image.
+### CSS Architecture
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Text Alternatives for Images](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/text-alternatives-for-images)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Accessible Images](https://webaim.org/techniques/images/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Alternative text](https://webaim.org/techniques/alttext/)
+### CSS Preprocessors
 
-#### Accessible CSS
+### JavaScript
 
-Learn how to write CSS in such as way that assistive technology better understands it.
+### Syntax and Constructs
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - CSS](https://webaim.org/techniques/css/)
+### DOM Manipulation
 
-### Accessible forms
+### Fetch API / Ajax(XHR)
 
-Learn how to build accessible forms that makes it usable to as many people as possible.
+### ES6+ and modular Javascript
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Forms](https://webaim.org/techniques/forms/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fitnext.io" alt="Logo" /> Itnext - Form Accessibility Gudie](https://itnext.io/form-accessibility-a-practical-guide-4062b7e2dd14)
+### Hoisting
 
-### UI States
+### Bubbling
 
-Learn how to make the state of each UI element clear.
+### Scope
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Accessible Styles](https://developers.google.com/web/fundamentals/accessibility/accessible-styles)
+### Prototype
 
-### Keyboard Accessibility
+### Shadow DOM
 
-Learn how to make it easy for keyboard users to navigate your site.
+### Web Assembly
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Keyboard](https://webaim.org/techniques/keyboard/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> Smashing Magazine - Web with just a keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/)
+### Package Managers
 
-#### Focus
+### npm
 
-Learn how to create a sensible tab order and how to make it easy for the users to locate the currently focused element.
+### yarn
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Control focus with tabindex](https://web.dev/control-focus-with-tabindex/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Focus](https://developers.google.com/web/fundamentals/accessibility/focus/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Dom Order Matters](https://developers.google.com/web/fundamentals/accessibility/focus/dom-order-matters)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Using Tabindex](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Track Focus](https://developers.google.com/web/tools/chrome-devtools/accessibility/focus)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - :focus-visible](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - :focus-within](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within)
+### Build Tools
 
-### Accessible Colors
+### Task Runners
 
-Learn how to select colors in such a way that users, including those with visual disabilities, can perceive the content on the page.
+#### npm scripts
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Contrast and Color](https://webaim.org/articles/contrast/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - Check contrast](https://a11yproject.com/posts/check-contrast-with-mobile-device/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - What is color contrast?](https://a11yproject.com/posts/what-is-color-contrast/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fstripe.com" alt="Logo" /> Designing accessible color systems](https://stripe.com/en-dk/blog/accessible-color-systems)
+### Linters and Formatters
 
-### Laws & Policies
+#### Prettier
 
-Learn about the governmental policies related to web accessibility.
+#### ESLint
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Laws & Policies](https://www.w3.org/WAI/policies/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Laws around the world](https://webaim.org/articles/laws/world/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Section 508](https://webaim.org/standards/508/checklist)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11y.dev" alt="Logo" /> A11Y.dev - Lawsuits](https://a11y.dev/470-digital-accessibility-cases-were-filed-in-q3-2018/)
+### Module Bundlers
 
-#### Audits
+#### Webpack
 
-Learn how to conduct an accessibility review to improve the overall experience of using your site. Remember, good accessibility equals good UX!
+#### Rollup
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Accessibility audits](https://web.dev/lighthouse-accessibility)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - How to review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Accessibility Tools](https://webaim.org/articles/tools/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Accessibility Reference](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fwave.webaim.org" alt="Logo" /> Webaim - Wave](http://wave.webaim.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fchrome.google.com" alt="Logo" /> Google Chrome - NoCoffee Extension](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.digitala11y.com" alt="Logo" /> Digital A11Y - Accessibility Plugins](https://www.digitala11y.com/accessibility-plug-ins-ie-chrome-firefox-browsers/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Accessibility for teams](https://developers.google.com/web/fundamentals/accessibility/a11y-for-teams)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.wuhcag.com" alt="Logo" /> WCAG 2.0 checklists](https://www.wuhcag.com/wcag-checklist/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+#### Parcel
+
+### Framework
+
+### React.js
+
+### Angular
+
+### Vue.js
+
+### Reactstrap
+
+### Material UI
+
+### Bootstrap
+
+### Static Site Generators
+
+### Next.js
+
+### GatasbyJS
 
 
 
@@ -758,166 +739,75 @@ Learn about the Chrome DevTools and how it can be used to audit your web app.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-tools)
 
-## ➤ Build tools
+## ➤ Android
 
-### Package Managers
+### Language
 
-Learn about package managers and how they make managing dependencies easier.
+### Kotlin
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - How JavaScript package managers work](https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.javascriptstuff.com" alt="Logo" /> Guide to JavaScript frontend package managers](https://www.javascriptstuff.com/javascript-frontend-package-managers/)
+Learn what FrontEnd is and why it is important.
 
-#### NPM
+* [ ] ["W3Schools: Learn HTML", "https://www.w3schools.com/html/html_intro.asp"],
+* [ ] ["HTML Full Course - Build a Website Tutorial", "https://www.youtube.com/watch?v=pQN-pnXPaVg"]
 
-Learn about NPM and how it can be used to manage dependencies.
+### Java
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdocs.npmjs.com" alt="Logo" /> npmjs - About npm](https://docs.npmjs.com/about-npm/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdocs.npmjs.com" alt="Logo" /> npmjs - Getting started](https://docs.npmjs.com/getting-started/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Introduction to npm and basic npm commands](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-npm-and-basic-npm-commands-18aa16f69f6b)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fnodesource.com" alt="Logo" /> An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
+Learn what Semantic HTML is and why it is important.
 
-#### Yarn
+* [ ] ["W3Schools: Semantic HTML", "https://www.w3schools.com/html/html5_semantic_elements.asp"],
+* [ ] ["How To Write Semantic HTML", "https://hackernoon.com/how-to-write-semantic-html-dkq3ulo"]
 
-Learn about Yarn and how it can be used to manage dependencies.
+### The Fundamentals
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fyarnpkg.com" alt="Logo" /> Yarnpkg - Getting Started](https://yarnpkg.com/en/docs/getting-started)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fengineering.fb.com" alt="Logo" /> Facebook Engineering - Yarn](https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/)
+### Android Studio
 
-### Module Bundlers
+### OOP
 
-Learn about module bundler and how they can help bundling your code.
+### Data Structures
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - What is a module bundler?](https://dev.to/tanhauhau/what-is-module-bundler-and-how-does-it-work-3gp2)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - Let’s learn how module bundlers work](https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> JavaScript Bundlers, a Comparison](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
+### Algorithm
 
-#### Rollup
+### Gradle
 
-Learn how you can use Rollup to bundle your code.
+### Build an Application
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Frollupjs.org" alt="Logo" /> Rollup - Introduction](https://rollupjs.org/guide/en/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Flengstorf.com" alt="Logo" /> How to Bundle JavaScript With Rollup](https://lengstorf.com/learn-rollup-js/)
+### Activities and Activity Lifecycles
 
-#### Webpack
+### Building Flexible Interfaces using Fragments
 
-Learn how you can use Webpack to bundle your code.
+### Debugging using Android Studio Debugger
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebpack.js.org" alt="Logo" /> Webpack - Getting Started](https://webpack.js.org/guides/getting-started/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fauth0.com" alt="Logo" /> Webpack: A Gentle Introduction to the Module Bundler](https://auth0.com/blog/webpack-a-gentle-introduction/)
+### Content Providers
 
-#### Parcel
+### Handling App Configurations
 
-Learn how you can use Parcel to bundle your code.
+### Intents and Context
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fparceljs.org" alt="Logo" /> Parcel - Getting Started](https://parceljs.org/getting_started.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fflaviocopes.com" alt="Logo" /> Parcel, a simpler webpack](https://flaviocopes.com/parcel/)
+### 3rd Party Libraries
 
-#### Snowpack
+### Writing Robust Apps
 
-Learn how Snowpack can replace the traditional app bundler during development.
+### Multithreading
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.snowpack.dev" alt="Logo" /> Snowpack](https://www.snowpack.dev/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.snowpack.dev" alt="Logo" /> Snowpack - Quickstart](https://www.snowpack.dev/#quickstart)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Snowpack](https://github.com/pikapkg/snowpack)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.pika.dev" alt="Logo" /> Pika - About](https://www.pika.dev/about/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.pika.dev" alt="Logo" /> A Future Without Webpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack/)
+### Security
 
-### Linters and formatters
+### Testing
 
-Learn how you can improve your code quality with linters and formatters.
+#### JUnit
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.gistia.com" alt="Logo" /> Improve Your JavaScript Code Quality With Linters](https://www.gistia.com/javascript-linters-formatter-prettier-eslint/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Why you should always use a Linter](https://medium.com/dailyjs/why-you-should-always-use-a-linter-and-or-pretty-formatter-bb5471115a76)
+#### Espresso
 
-#### Prettier
+### Dependency Management
 
-Learn how you can use Prettier to format your code.
+#### Dagger
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fprettier.io" alt="Logo" /> Prettier - What is Prettier?](https://prettier.io/docs/en/index.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.bitsrc.io" alt="Logo" /> Let the computer do the formatting](https://blog.bitsrc.io/let-the-computer-do-the-formatting-ddb799e8a068)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fprettier.io" alt="Logo" /> Prettier - Playground](https://prettier.io/playground/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fprettier.io" alt="Logo" /> Prettier - Integrating with Linters](https://prettier.io/docs/en/integrating-with-linters.html)
+#### Koin
 
-#### ESLint
+### Concurrency
 
-Learn how you can use ESLint to lint your code.
+#### RxJava
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Feslint.org" alt="Logo" /> Eslint - Getting Started](https://eslint.org/docs/user-guide/getting-started)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Streamline Code Reviews with ESLint + Prettier](https://medium.com/javascript-scene/streamline-code-reviews-with-eslint-prettier-6fb817a6b51d)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.futurehosting.com" alt="Logo" /> Prettier vs ESLint: What’s The Difference?](https://www.futurehosting.com/blog/prettier-vs-eslint-whats-the-difference/)
-
-### Task Runners
-
-Learn about task runners and how you can automate code execution.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.dbswebsite.com" alt="Logo" /> The Advantages of Using Task Runners](https://www.dbswebsite.com/blog/the-advantages-of-using-task-runners/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> Being Productive With Task Runners](https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/)
-
-#### NPM Scripts
-
-Learn about NPM scripts and how you can run your own.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmichael-kuehnel.de" alt="Logo" /> Helpers and tips for npm run scripts](https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html)
-
-### Transpilers
-
-Learn what transpilers are and why we need them.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fscotch.io" alt="Logo" /> Scotch - Javascript Transpilers](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fthenewstack.io" alt="Logo" /> What JavaScript Programmers Need to Know about Transpilers](https://thenewstack.io/javascript-transpilers-need-know/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
-
-#### Babel
-
-Learn about Babel and how you can use it to transpile your code.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Complete Babel 7 Guide for Beginners](https://medium.com/@onlykiosk/complete-babel-7-guide-for-beginners-in-2019-7dd78214c464)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fbabeljs.io" alt="Logo" /> Babel - What is Babel?](https://babeljs.io/docs/en/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fbabeljs.io" alt="Logo" /> Babel - Usage Guide](https://babeljs.io/docs/en/usage)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.sitepoint.com" alt="Logo" /> A Beginner’s Guide to Babel](https://www.sitepoint.com/babel-beginners-guide/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhackernoon.com" alt="Logo" /> Moving to ES6 — Babel and Transpilers](https://hackernoon.com/moving-to-es6-babel-and-transpilers-337921c025b1)
-
-#### Typescript
-
-Learn how to use Typescript and how it can help making your code typesafe.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fwww.typescriptlang.org" alt="Logo" /> Typescript - Documentation](http://www.typescriptlang.org/docs/home.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Typescript: Why should one use i?](https://medium.com/tech-tajawal/typescript-why-should-one-use-it-a539faa92010)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Why TypeScript is the best way to write Front-end in 2019](https://medium.com/@jtomaszewski/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164)
-
-### CSS Pre-processors
-
-Learn about CSS pre-processors and why we need them.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS preprocessor](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Advantages of Using a Preprocessor](https://medium.com/swlh/advantages-of-using-a-preprocessor-sass-in-css-eb7310179944)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Deconfusing Pre- and Post-processing](https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3)
-
-#### SASS
-
-Learn about SASS and how you can use it to simplify your styles.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsass-lang.com" alt="Logo" /> SASS - Guide](https://sass-lang.com/guide)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fraygun.com" alt="Logo" /> 10 Reasons to Use a CSS Preprocessor in 2018](https://raygun.com/blog/10-reasons-css-preprocessor/)
-
-#### PostCSS
-
-Learn about PostCSS and how you can use its ecosystem of plugins to extend your CSS build pipeline.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fpostcss.org" alt="Logo" /> PostCSS](https://postcss.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.sitepoint.com" alt="Logo" /> What is PostCSS?](https://www.sitepoint.com/an-introduction-to-postcss/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fflaviocopes.com" alt="Logo" /> Introduction to PostCSS](https://flaviocopes.com/postcss/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.logrocket.com" alt="Logo" /> Getting started with PostCSS in 2019](https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725/)
-
-### Node.js
-
-Learn how to use Node.js.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fnodejs.org" alt="Logo" /> Node.js](https://nodejs.org)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fnodejs.dev" alt="Logo" /> Introduction to Node.js](https://nodejs.dev/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fnodejs.org" alt="Logo" /> Node.js - Guides](https://nodejs.org/en/docs/guides/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - Node.js tutorial](https://www.w3schools.com/nodejs/)
+#### Coroutines
 
 
 
