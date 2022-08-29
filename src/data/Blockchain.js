@@ -1,4 +1,4 @@
-export const testingCollection = {
+export const BlockchainCollection = {
 	name: "Blockchain",
 	areas: [
 		{
