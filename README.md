@@ -4,253 +4,6 @@
 </p> 
 <br />
 <details>
-<summary>📖 목차</summary>
-<br />
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-## ➤ 목차
-
-* [➤ 참여하기](#-faq)
-* [➤ Fundamentals](#-fundamentals)
-	* [HTML](#html)
-	* [Syntax](#syntax)
-		* [Basic Tags](#basic-tags)
-	* [Forms](#forms)
-	* [SEO](#seo)
-		* [Discoverable Content](#discoverable-content)
-	* [Svg](#svg)
-	* [Best Practices](#best-practices)
-	* [CSS](#css)
-	* [Syntax](#syntax-1)
-	* [Selectors](#selectors)
-		* [Specificity](#specificity)
-		* [Pseudo Selectors](#pseudo-selectors)
-	* [Box Model](#box-model)
-		* [Margin Collapsing](#margin-collapsing)
-	* [Colors](#colors)
-	* [Calc](#calc)
-	* [Layout](#layout)
-		* [Flex](#flex)
-		* [Grid](#grid)
-	* [Transforms](#transforms)
-		* [Animations](#animations)
-	* [Responsive Design](#responsive-design)
-		* [Media Queries](#media-queries)
-		* [Relative Units](#relative-units)
-		* [Images](#images)
-	* [CSS Variables](#css-variables)
-	* [Best Practices](#best-practices-1)
-	* [Javascript](#javascript)
-	* [Syntax](#syntax-2)
-		* [Spread](#spread)
-		* [Destructuring](#destructuring)
-	* [DOM](#dom)
-		* [DOM Manipulation](#dom-manipulation)
-	* [Events](#events)
-	* [Objects](#objects)
-		* [Prototype](#prototype)
-			* [Classes](#classes)
-	* [Regex](#regex)
-	* [Template Literals](#template-literals)
-	* [Promises](#promises)
-		* [Callbacks](#callbacks)
-		* [Async/await](#asyncawait)
-		* [Fetch](#fetch)
-	* [Web Animations](#web-animations)
-	* [Modules](#modules)
-	* [Intl](#intl)
-	* [Canvas](#canvas)
-	* [Documentation](#documentation)
-	* [Best Practices](#best-practices-2)
-	* [The Browser](#the-browser)
-	* [Standardization](#standardization)
-		* [W3C](#w3c)
-		* [TC39](#tc39)
-		* [WHATWG](#whatwg)
-		* [Specifications](#specifications)
-	* [Browser Engines](#browser-engines)
-		* [Webkit](#webkit)
-		* [Blink](#blink)
-		* [Gecko](#gecko)
-	* [HTTP](#http)
-	* [The Internet](#the-internet)
-	* [Polyfills](#polyfills)
-	* [Debugging](#debugging)
-		* [Developer console](#developer-console)
-* [➤ Frontend](#-frontend)
-	* [HTML](#html)
-	* [Semantic HTML](#semantic-html)
-	* [Forms and Validations](#forms-and-validations)
-	* [Accessibility](#accessibility)
-	* [SEO](#seo)
-	* [CSS](#css)
-	* [Basics](#basics)
-	* [Layouts](#layouts)
-	* [Responsive design and Media Queries](#responsive-design-and-media-queries)
-	* [CSS Architecture](#css-architecture)
-	* [CSS Preprocessors](#css-preprocessors)
-	* [Syntax and Constructs](#syntax-and-constructs)
-	* [DOM Manipulation](#dom-manipulation)
-	* [Fetch API / Ajax(XHR)](#fetch-api---ajax(xhr))
-	* [ES6+ and modular JavaScript](#es6+-and-modular-javascript)
-	* [Hoisting](#hoisting)
-	* [Bubbling](#bubbling)
-	* [Scope](#scope)
-	* [Shadow DOM](#shadow-dom)
-	* [Web-Assembly](#web-assembly)
-	* [Package Managers](#package-managers)
-	* [npm](#npm)
-	* [yarn](#yarn)
-	* [Build Tools](#build-tools)
-	* [Task Runners](#task-runners)
-		* [npm scripts](#npm-scripts)
-	* [Linters and Formatters](#linters-and-formatters)
-		* [Prettier](#prettier)
-		* [ESLint](#eslint)
-	* [Module Bundlers](#module-bundlers)
-		* [Webpack](#webpack)
-		* [Rollup](#rollup)
-		* [Parcel](#parcel)
-	* [Framework](#framework)
-	* [React.js](#reactjs)
-	* [Angular](#angular)
-	* [Vue.js](#vuejs)
-	* [Reactstrap](#reactstrap)
-	* [Material UI](#material-ui)
-	* [Bootstrap](#bootstrap)
-	* [Static Site Generators](#static-site-generators)
-	* [Next.js](#nextjs)
-	* [GatasbyJS](#gatasbyjs)
-* [➤ Web Components](#-web-components)
-	* [Custom Elements](#custom-elements)
-	* [HTML Templates](#html-templates)
-	* [Shadow DOM](#shadow-dom)
-		* [Shadow Parts](#shadow-parts)
-		* [Slots](#slots)
-	* [Best practices](#best-practices)
-	* [Constructible Stylesheets](#constructible-stylesheets)
-	* [Form Participation](#form-participation)
-* [➤ Progressive Webapps](#-progressive-webapps)
-	* [API's](#apis)
-	* [Storage](#storage)
-	* [Routing](#routing)
-		* [History API](#history-api)
-	* [Service Workers](#service-workers)
-		* [Offline first](#offline-first)
-		* [Push notifications](#push-notifications)
-	* [Web App manifest](#web-app-manifest)
-	* [Add to homescreen](#add-to-homescreen)
-	* [Pointer Events](#pointer-events)
-	* [Loading Performance](#loading-performance)
-	* [App shell](#app-shell)
-	* [Render-Blocking Resources](#render-blocking-resources)
-	* [Compression](#compression)
-	* [Performance metrics](#performance-metrics)
-		* [Largest Contentful Paint](#largest-contentful-paint)
-		* [Total Blocking Time](#total-blocking-time)
-		* [Time to Interactive](#time-to-interactive)
-	* [Lazy Loading](#lazy-loading)
-		* [Dynamic Import](#dynamic-import)
-		* [Offscreen images](#offscreen-images)
-	* [Critical Request Chains](#critical-request-chains)
-	* [Tree shaking](#tree-shaking)
-	* [Codesplitting](#codesplitting)
-	* [PRPL Pattern](#prpl-pattern)
-	* [Resource Prioritization](#resource-prioritization)
-	* [Caching](#caching)
-	* [Rendering Performance](#rendering-performance)
-	* [Rendering](#rendering)
-	* [Event loop](#event-loop)
-		* [Microtask](#microtask)
-		* [Stack](#stack)
-		* [Heap](#heap)
-	* [RAIL Model](#rail-model)
-		* [requestAnimationFrame](#requestanimationframe)
-		* [requestIdleCallback](#requestidlecallback)
-	* [Critical Rendering Path](#critical-rendering-path)
-	* [The Pixel Pipeline](#the-pixel-pipeline)
-		* [Style calculations](#style-calculations)
-		* [Transforms](#transforms-1)
-		* [Paint areas](#paint-areas)
-		* [Layout Trashing](#layout-trashing)
-		* [Layers](#layers)
-		* [Debounce](#debounce)
-	* [CSS Containment](#css-containment)
-	* [Web Workers](#web-workers)
-	* [Security](#security)
-	* [HTTPS](#https)
-	* [Browser Sandbox](#browser-sandbox)
-	* [OWASP](#owasp)
-		* [Cross-Site Scripting](#cross-site-scripting)
-		* [Clickjacking](#clickjacking)
-	* [Content Security Policy](#content-security-policy)
-	* [Audits](#audits-1)
-	* [Performance budgets](#performance-budgets)
-	* [Lighthouse](#lighthouse)
-	* [Chrome DevTools](#chrome-devtools)
-* [➤ Android](#-android)
-	* [Language](#language)
-	* [Kotlin](#kotlin)
-	* [Java](#java)
-	* [The Fundamentals](#the-fundamentals)
-	* [Android Studio](#android-studio)
-	* [OOP](#oop)
-	* [Data Structures](#data-structures)
-	* [Algorithm](#algorithm)
-	* [Gradle](#gradle)
-	* [Build an Application](#build-an-application)
-	* [Activities and Activity Lifecycles](#activities-and-activity-lifecycles)
-	* [Building Flexible Interfaces using Fragments](#building-flexible-interfaces-using-fragments)
-	* [Debugging using Android Studio Debugger](#debugging-using-android-studio-debugger)
-	* [Content Providers](#content-providers)
-	* [Handling App Configurations](#handling-app-configurations)
-	* [Intents and Context](#intents-and-context)
-	* [3rd Party Libraries](#3rd-party-libraries)
-	* [Writing Robust Apps](#writing-robust-apps)
-	* [Multithreading](#multithreading)
-	* [Security](#security)
-	* [Testing](#testing)
-		* [JUnit](#junit)
-		* [Espresso](#espresso)
-	* [Dependency Management](#dependency-management)
-		* [Dagger](#dagger)
-		* [Koin](#koin)
-	* [Concurrency](#concurrency)
-		* [RxJava](#rxjava)
-		* [Coroutines](#coroutines)
-* [➤ Frameworks & Libraries](#-frameworks--libraries)
-	* [lit-element](#lit-element)
-	* [Vue](#vue)
-	* [React](#react)
-	* [Angular](#angular)
-	* [Svelte](#svelte)
-	* [Stencil](#stencil)
-* [➤ Testing](#-testing)
-	* [Testing Methodologies](#testing-methodologies)
-		* [Unit Testing](#unit-testing)
-		* [Integration Testing](#integration-testing)
-		* [System Testing](#system-testing)
-		* [Acceptance Testing](#acceptance-testing)
-		* [Smoke Testing](#smoke-testing)
-		* [Performance Testing](#performance-testing)
-		* [Usability Testing](#usability-testing)
-		* [White Box Testing](#white-box-testing)
-		* [Black Box Testing](#black-box-testing)
-		* [Automated Testing](#automated-testing)
-		* [Manual Testing](#manual-testing)
-	* [Continuous integration](#continuous-integration)
-	* [A/B Testing](#ab-testing)
-	* [Test Runners](#test-runners)
-		* [Karma](#karma)
-		* [Mocha](#mocha)
-		* [Jasmine](#jasmine)
-		* [Cypress](#cypress)
-		* [Ava](#ava)
-	* [Best Practices](#best-practices-3)
-* [➤ Contributors](#-contributors)
-* [➤ License](#-license)
-</details>
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
@@ -261,565 +14,45 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#fundamentals)
 
-## ➤ Fundamentals
+## ➤ Beginner's Guide
 
-### HTML
+### Words
 
-### Syntax
+Glossary for beginners.
 
-Learn the basics of HTML and get comfortable with it's syntax and main concepts.
+* [ ] ["1", "https://www.inflearn.com/pages/weekly-inflearn-12"]
+* [ ] ["2", "https://www.inflearn.com/pages/weekly-inflearn-13"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.codecademy.com" alt="Logo" /> Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
+#### Install IDE
 
-#### Basic Tags
+How to install an IDE for beginners.
 
-Get familiar with the basic HTML tags
+* [ ] ["Java-Eclipes", "https://danmilife.tistory.com/7"]
+* [ ] ["Nodejs", "https://offbyone.tistory.com/441"]
+* [ ] ["Visual Studio", "https://docs.microsoft.com/ko-kr/cpp/build/vscpp-step-0-installation?view=msvc-170"]
+* [ ] ["Visual Studio code", "https://webnautes.tistory.com/1197"]
+* [ ] ["MYSQL", "https://hongong.hanbit.co.kr/mysql-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0mysql-community-8-0/"]
+* [ ] ["Oracle", "https://javacoding.tistory.com/113"]
+* [ ] ["JavaScript", "https://doongdoongeee.tistory.com/146"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Tutorialspoint - Basic HTML tags](https://www.tutorialspoint.com/html/html_basic_tags.htm)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.elated.com" alt="Logo" /> Elated - First 10 HTML tags](https://www.elated.com/first-10-html-tags/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - HTML tags](https://www.w3schools.com/tags/ref_byfunc.asp)
+### git
 
-### Forms
+How to use a feather for beginners.
 
-Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.
+* [ ] ["What is Git?", "https://goddaehee.tistory.com/91"]
+* [ ] ["What is GitHub?", "https://velog.io/@jini_eun/Github-Github%EB%9E%80-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC"]
+* [ ] ["How to use Git", "https://www.lainyzine.com/ko/article/summary-of-how-to-use-git-for-source-code-management/"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - HTML forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Web - Forms](https://developers.google.com/web/fundamentals/design-and-ux/input/forms/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - Forms](https://www.w3schools.com/html/html_forms.asp)
+### Job
 
-### SEO
+Job description for beginners.
 
-Learn how to make your content search-friendly.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Discoverable](https://web.dev/discoverable)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - Get Started](https://developers.google.com/search/docs/guides/get-started)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - SEO audits](https://web.dev/lighthouse-seo)
-
-#### Discoverable Content
-
-Learn how to structure your HTML in a way that provides a rich experience when sharing it online.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Web - Social Discovery](https://developers.google.com/web/fundamentals/discovery/social-discovery)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - Search Features](https://developers.google.com/search/docs/guides/search-features)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Search - Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Easily discoverable](https://web.dev/discoverable)
-
-### Svg
-
-Learn how to work with SVG files to make graphics look crisp across all screen resolutions.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Adding vector graphics to the Web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvgontheweb.com" alt="Logo" /> SVG on the web](https://svgontheweb.com/)
-
-### Best Practices
-
-Learn the best practices of writing HTML.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - HTML guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - HTML Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
-
-
-### CSS
-
-### Syntax
-
-Learn the basics of CSS and get comfortable with it's syntax and main concepts.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - CSS Tutorial](https://www.w3schools.com/css/default.asp)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Supercharged - CSS Selectors](https://www.youtube.com/watch?v=IKho_xDKaLw)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS building blocks](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
-
-### Selectors
-
-Learn about CSS selectors and how to effeciently target DOM elements.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - All selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Child and Sibling Selectors](https://css-tricks.com/child-and-sibling-selectors/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - All Selectors](https://css-tricks.com/almanac/selectors/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - CSS Combinators](https://www.w3schools.com/css/css_combinators.asp)
-
-#### Specificity
-
-Learn what specificity means and how to use it when writing CSS.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - CSS Specificity](https://dev.to/emmawedekind/css-specificity-1kca)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fspecificity.keegan.st" alt="Logo" /> Specificity Calculator](https://specificity.keegan.st/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
-
-#### Pseudo Selectors
-
-Learn how to use pseudo selectors.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Meet the Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fbitsofco.de" alt="Logo" /> When do the :hover, :focus, and :active pseudo-classes apply?](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
-
-### Box Model
-
-Learn what the CSS box model means.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Introduction to the CSS basic box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Inheriting box-sizing](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
-
-#### Margin Collapsing
-
-Learn about margin collapsing.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Mastering margin collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Margin Collapse in CSS: What, Why, and How](https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fbitsofco.de" alt="Logo" /> What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjonathan-harrell.com" alt="Logo" /> What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
-
-### Colors
-
-Learn the different ways you can define colors in CSS.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - <color>](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - CSS Colors](https://www.w3schools.com/css/css_colors.asp)
-
-### Calc
-
-Learn how to use the CSS calc function.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Calc](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - A Couple of Use Cases for Calc()](https://css-tricks.com/a-couple-of-use-cases-for-calc/)
-
-### Layout
-
-Learn the different layout types for web.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Chrome Dev - Basic Layout](https://developers.google.com/training/certification/mobile-web-specialist/study-guide/basic-layout)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
-
-#### Flex
-
-Learn how to create layouts using flexbox.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fflexboxfroggy.com" alt="Logo" /> Flexbox Froggy](https://flexboxfroggy.com/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fflexboxdefense.com" alt="Logo" /> Flexbox Defense](http://flexboxdefense.com)
-
-#### Grid
-
-Learn how to create layouts using CSS Grid.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcssgridgarden.com" alt="Logo" /> CSS Grid Garden](https://cssgridgarden.com/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Supercharged - CSS Grids](https://www.youtube.com/watch?v=AqwPrR7hklE)
-
-### Transforms
-
-Learn the different ways to transform elements through CSS.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/)
-
-#### Animations
-
-Learn how to animate elements through CSS using keyframes.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Animation](https://css-tricks.com/almanac/properties/a/animation/)
-
-### Responsive Design
-
-Learn how to make your website responsive so it works across different screen sizes.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.udacity.com" alt="Logo" /> Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Dev - Responsive Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Dev - UX Patterns](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Dev - Responsive Content](https://developers.google.com/web/fundamentals/design-and-ux/responsive/content)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodelabs.developers.google.com" alt="Logo" /> Codelabs - Responsive Design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0)
-
-#### Media Queries
-
-Learn how use media queries to build responsive layout.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - CSS Media Queries & Using Available Space](https://css-tricks.com/css-media-queries/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Using Media Queries for Accessibility](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility)
-
-#### Relative Units
-
-Learn how to use relative units for properties such as font sizes and spacing.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fthecssworkshop.com" alt="Logo" /> The CSS Workshop - Relative Units](https://thecssworkshop.com/lessons/relative-units)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - 15 CSS Relative units](https://dev.to/bytegasm/15-css-relative-units-how-many-do-you-know-em-rem-ex-cap-ch-ic-6m)
-
-#### Images
-
-Learn how to make images responsive, always showing the best possible version for the screen size.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Responsive Images](https://developers.google.com/web/fundamentals/design-and-ux/responsive/images)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-
-### CSS Variables
-
-Learn how to define and use CSS variables.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - CSS Quickies: CSS Variables](https://dev.to/lampewebdev/css-quickies-css-variables-or-how-you-create-a-white-dark-theme-easily-1i0i)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodeburst.io" alt="Logo" /> CSS Variables explained with 5 examples](https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd)
-
-### Best Practices
-
-Learn the best practices of writing CSS.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CSS guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fspeckyboy.com" alt="Logo" /> Speckyboy - Good and bad CSS practices](https://speckyboy.com/good-bad-css-practices/)
-
-
-### Javascript
-
-### Syntax
-
-Learn the basics of Javascript and get comfortable with it's syntax and main concepts.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Javascript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Javascript Building Blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
-
-#### Spread
-
-Learn how the spread syntax can help you when working with arrays.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - An introduction to Spread syntax](https://www.freecodecamp.org/news/an-introduction-to-spread-syntax-in-javascript-fba39595922c/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fv8.dev" alt="Logo" /> Object rest and spread properties](https://v8.dev/features/object-rest-spread)
-
-#### Destructuring
-
-Learn how destructuring can help you when working with objects.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhacks.mozilla.org" alt="Logo" /> MDN - ES6 In Depth: Destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> javascript.info - Destructuring assignment](https://javascript.info/destructuring-assignment)
-
-### DOM
-
-Learn how the HTML is represented as objects that comprise the structure and content of a document.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - What's the DOM](https://www.freecodecamp.org/news/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Flearn.co" alt="Logo" /> Introduction to the DOM](https://learn.co/lessons/introduction-to-the-dom)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtmldom.dev" alt="Logo" /> htmldom.dev](https://htmldom.dev/)
-
-#### DOM Manipulation
-
-Learn how to query HTML elements through Javascript and manipulate them.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Locating DOM elements using selectors](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Supercharged - querySelector](https://www.youtube.com/watch?v=s0vg_H9hBuU)
-
-### Events
-
-Learn how to dispatch and listen for events.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Creating and triggering events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Event Bubbling and Event Capturing in JavaScript](https://medium.com/@vsvaibhav2016/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - A simplified explanation of event propagation](https://www.freecodecamp.org/news/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fflaviocopes.com" alt="Logo" /> JavaScript Events Explained](https://flaviocopes.com/javascript-events/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - removeEventListener(](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.quirksmode.org" alt="Logo" /> Event order](https://www.quirksmode.org/js/events_order.html)
-
-### Objects
-
-Learn how to create and use objects.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> javascript.info - Objects](https://javascript.info/object)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - new operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - new.target](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new.target)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fscotch.io" alt="Logo" /> Data Structures: Objects and Arrays](https://scotch.io/courses/10-need-to-know-javascript-concepts/data-structures-objects-and-arrays)
-
-#### Prototype
-
-Learn how to extend objects and functions through its prototype.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> The prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Prototypes in JavaScript](https://medium.com/better-programming/prototypes-in-javascript-5bba2990e04b)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
-
-##### Classes
-
-Learn how to define and use classes. Get somewhat comfortable with some of the object oriented concepts such as inheritence and encapsulation.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Medium - ES6 Classes](https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Inheritance](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Object Oriented Programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
-
-### Regex
-
-Learn how to use regex to extract information from strings.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> javascript.info - Regular expressions](https://javascript.info/regular-expressions)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
-
-### Template Literals
-
-Learn how template literals and tagged templates and help you manipulate strings.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhacks.mozilla.org" alt="Logo" /> MDN - ES6 In Depth: Template strings](https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Getting Literal With ES6 Template Strings](https://developers.google.com/web/updates/2015/01/ES6-Template-Strings)
-
-### Promises
-
-Learn how to use promises and what asynchronous code means.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
-
-#### Callbacks
-
-Learn how to use callbacks and why they are not always a good idea.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Callback function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodeburst.io" alt="Logo" /> JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> javascript.info - Callbacks](https://javascript.info/callbacks)
-
-#### Async/await
-
-Learn how to use the async and await keywords to make it easier to write asynchronous code.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> javascript.info - Async/await](https://javascript.info/async-await)
-
-#### Fetch
-
-Learn how to use the fetch API to fetch data.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Introduction to fetch](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Networking](https://developers.google.com/training/certification/mobile-web-specialist/study-guide/networking)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - Fetch practical guide](https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Falligator.io" alt="Logo" /> Alligator - Fetch API](https://alligator.io/js/fetch-api/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Supercharged - Fetch](https://www.youtube.com/watch?v=GiI77ya60yk)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodelabs.developers.google.com" alt="Logo" /> Codelabs - Fetch ](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0)
-
-### Web Animations
-
-Learn how to use web animations to animate elements in the DOM.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Animations](https://developers.google.com/web/fundamentals/design-and-ux/animations)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Using The Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - CSS Animations vs Web Animations API](https://css-tricks.com/css-animations-vs-web-animations-api/)
-
-### Modules
-
-Learn how to modularize your code into ES6 modules using the export and import keywords.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fv8.dev" alt="Logo" /> V8 - Modules](https://v8.dev/features/modules)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - A Practical guide to ES6 modules](https://www.freecodecamp.org/news/how-to-use-es6-modules-and-why-theyre-important-a9b20b480773/)
-
-### Intl
-
-Learn how to localize your website using the Intl API.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Date Time Format](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.bitsrc.io" alt="Logo" /> New Intl APIs in JavaScript](https://blog.bitsrc.io/new-intl-apis-in-javascript-c50dc89d2cf3)
-
-### Canvas
-
-Learn how to paint graphics onto a canvas.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - Manipulating Pixels Using Canvas](https://css-tricks.com/manipulating-pixels-using-canvas/)
-
-### Documentation
-
-Learn how to create good documentation and why it is important.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjsdoc.app" alt="Logo" /> Getting Started with JSDoc](https://jsdoc.app/about-getting-started.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.writethedocs.org" alt="Logo" /> A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhackernoon.com" alt="Logo" /> Write Good Documentation](https://hackernoon.com/write-good-documentation-6caffb9082b4)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> The power of jsDoc](https://dev.to/gmartigny/the-power-of-jsdoc-272d)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> Document your Javascript code with JSDoc](https://dev.to/paulasantamaria/document-your-javascript-code-with-jsdoc-2fbf)
-
-### Best Practices
-
-Learn the best practices of writing Javascript.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - JavaScript guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/JavaScript)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Airbnb - JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodeburst.io" alt="Logo" /> 5 JavaScript Style Guides](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
-
-
-### The Browser
-
-### Standardization
-
-Learn why web standards are important and how new specifications are standardised.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Web Standards](https://en.wikipedia.org/wiki/Web_standards)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.elcom.com.au" alt="Logo" /> What Are Web Standards?](https://www.elcom.com.au/resources/blog/web-standards)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Frobertnyman.com" alt="Logo" /> A Comprehensive Explanation of Web Standards](https://robertnyman.com/2007/05/21/what-are-web-standards-a-comprehensive-explanation-of-what-is-comprised-in-the-term/)
-
-#### W3C
-
-Learn what W3C are doing and how they are moving the web forward.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - About](https://www.w3.org/standards/about.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Standards](https://www.w3.org/standards/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fwebdiy.org" alt="Logo" /> W3C - Process](http://webdiy.org/w3c/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> Web Standards Guide](https://www.smashingmagazine.com/2019/01/web-standards-guide/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Groups](https://www.w3.org/community/groups/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.smashingmagazine.com" alt="Logo" /> The W3C At Twenty-Five](https://www.smashingmagazine.com/2019/10/happy-birthday-w3c/)
-
-#### TC39
-
-Learn what TC39 are doing and how they are moving the web forward.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2F2ality.com" alt="Logo" /> The TC39 process for ECMAScript features](https://2ality.com/2015/11/tc39-process.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - TC39](https://github.com/tc39)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.ecma-international.org" alt="Logo" /> Ecma International - Programme of work](https://www.ecma-international.org/memento/tc39.htm)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Ecma International](https://en.wikipedia.org/wiki/Ecma_International)
-
-#### WHATWG
-
-Learn what WHATWG are doing and how they are moving the web forward.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwg.org" alt="Logo" /> WHATWG - FAQ](https://whatwg.org/faq)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fspec.whatwg.org" alt="Logo" /> WHATWG - Standards](https://spec.whatwg.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - WHATWG](https://developer.mozilla.org/en-US/docs/Glossary/WHATWG)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdzone.com" alt="Logo" /> W3C vs. WHATWG HTML5 Specs](https://dzone.com/articles/w3c-vs-whatwg-html5-specs)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> WHATWG - HTML](https://html.spec.whatwg.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - WHATWG](https://en.wikipedia.org/wiki/WHATWG)
-
-#### Specifications
-
-Learn how to read specifications developed by the standards committees.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Ftimothygu.me" alt="Logo" /> How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Falistapart.com" alt="Logo" /> How to Read W3C Specs](https://alistapart.com/article/readspec/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.chenhuijing.com" alt="Logo" /> Learning CSS by reading specs](https://www.chenhuijing.com/blog/learning-css-by-reading-specifications/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> Understanding the CSS Specifications](https://www.w3.org/Style/CSS/read.en.html)
-
-### Browser Engines
-
-Learn what a browser engine is and get an overview of the browser landscape and market share.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Medium - Browser Engines](https://medium.com/@jonbiro/browser-engines-chromium-v8-blink-gecko-webkit-98d6b0490968)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Comparison](https://en.wikipedia.org/wiki/Comparison_of_browser_engines)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.html5rocks.com" alt="Logo" /> HTML5 Rocks - How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Ftextslashplain.com" alt="Logo" /> Demystifying Browsers](https://textslashplain.com/2020/02/09/demystifying-browsers/)
-
-#### Webkit
-
-Learn about the Webkit browser engine.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebkit.org" alt="Logo" /> Webkit](https://webkit.org/)
-
-#### Blink
-
-Learn about the Blink browser engine.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Blink](https://en.wikipedia.org/wiki/Blink_(browser_engine))
-
-#### Gecko
-
-Learn about the Gecko browser engine.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Gecko](https://en.wikipedia.org/wiki/Gecko_(software))
-
-### HTTP
-
-Learn how data is distributed through the HTTP protocol.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - HTTP Glossary](https://developer.mozilla.org/en-US/docs/Glossary/HTTP)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-
-### The Internet
-
-Learn the basics of how the internet works.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.explainthatstuff.com" alt="Logo" /> Explain That Stuff - Internet](https://www.explainthatstuff.com/internet.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.stanford.edu" alt="Logo" /> Stanford - How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.hubspot.com" alt="Logo" /> How the Internet Works](https://blog.hubspot.com/marketing/how-the-internet-works)
-
-### Polyfills
-
-Learn how it is possible to use polyfills to increase the browser support for your website.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Polyfill](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Introduction To Polyfills & Their Usage](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-polyfills-their-usage-9cd6db4b1923)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> W3C - Polyfills and the evolution of the Web](https://www.w3.org/2001/tag/doc/polyfills/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fcaniuse.com" alt="Logo" /> Can I use](http://caniuse.com/)
-
-### Debugging
-
-Learn about the basics concepts of debugging.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Inspect and Edit Pages and Styles](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> 5 things to remember for better debugging of your code](https://medium.com/dev-bits/5-things-to-remember-for-better-debugging-of-your-code-94b9bc3fb3df)
-
-#### Developer console
-
-Learn how to use the developer console to debug your code.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Console API Reference](https://developers.google.com/web/tools/chrome-devtools/console/api)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Get Started with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Console Utilities API Reference](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> javascript.info - Debugging in Chrome](https://javascript.info/debugging-chrome)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fraygun.com" alt="Logo" /> 14 JavaScript debugging tips](https://raygun.com/javascript-debugging-tips)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fflaviocopes.com" alt="Logo" /> The definitive guide to debugging JavaScript](https://flaviocopes.com/javascript-debugging/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Chrome DevTools 101](https://www.youtube.com/watch?v=H0XScE08hy8)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Chrome Devs - Quickly monitor events](https://developers.google.com/web/updates/2015/05/quickly-monitor-events-from-the-console-panel)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - 14 Must Know Chrome Dev Tools Tricks](https://www.youtube.com/watch?v=xkzDaKwinA8)
-
+* [ ] ["Frontend", "https://www.websiterating.com/ko/website-builders/glossary/what-is-front-end/"],
+* [ ] ["Backend", "https://m.post.naver.com/viewer/postView.naver?volumeNo=31857474&memberNo=5661329"],
+* [ ] ["DevOps", "https://www.netapp.com/ko/devops-solutions/what-is-devops/"],
+* [ ] ["Android", "https://ko.rayhaber.com/2022/03/Android-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C-%EA%B7%B8%EB%8A%94-Android-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%89%EC%97%AC-2022%EA%B0%80%EB%90%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C%3F/"],
+* [ ] ["DBA", "https://career.fantasy-info.net/305"],
+* [ ] ["Blockchain", "https://brunch.co.kr/@futurejob/28"],
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#accessibility)
@@ -1692,185 +925,180 @@ Learn how to use Node.js.
 
 ## ➤ DBA
 
-### Postgres
+### PostgreSQL
 
 PostgreSQL is an object-relational database system (ORDBMS).
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Flit-element.polymer-project.org" alt="Logo" /> lit-element](https://lit-element.polymer-project.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Lightning-fast templates](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvaadin.com" alt="Logo" /> Vaadin - Creating a LitElement project](https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Web Components: from zero to hero, part three](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
+* [ ] ["PostgreSQL Funtion", "https://d2.naver.com/helloworld/227936"]
+* [ ] ["Why you should learn PostgreSQL", "https://azure.microsoft.com/ko-kr/resources/cloud-computing-dictionary/what-is-postgresql/"]
+* [ ] ["PostgreSQL?", "https://kimdubi.github.io/postgresql/pg_schema/"]
+* [ ] ["PostgreSQL Features", "http://www.incodom.kr/PostgreSQL"]
 
 ### Oracle
 
-Learn about Vue and how you can use it for building web apps.
+Learn to use Oracle.
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fvuejs.org" alt="Logo" /> Vue](https://vuejs.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcli.vuejs.org" alt="Logo" /> Vue - CLI](https://cli.vuejs.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.taniarascia.com" alt="Logo" /> Getting Started with Vue](https://www.taniarascia.com/getting-started-with-vue/)
+* [ ] ["Oracle basic syntax", "https://zsunn.tistory.com/entry/Oracle-Oracle-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95"]
+* [ ] ["Oracle Advanced Syntax", "https://rutel.tistory.com/332"]
 
 ### MYSQL
 
-Learn about React and how you can use it for building web apps.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Freactjs.org" alt="Logo" /> React](https://reactjs.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - React](https://web.dev/react)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.taniarascia.com" alt="Logo" /> Getting Started with React](https://www.taniarascia.com/getting-started-with-react/)
+Learn to use MYSQL.
+	
+* [ ] ["MYSQL Install", "https://www.mysql.com/"]
+* [ ] ["What is MYSQL", "http://www.tcpschool.com/mysql/mysql_intro_intro"]
+* [ ] ["MYSQL basic syntax", "http://www.tcpschool.com/mysql/mysql_basic_syntax"]
 
 ### certificate
 
-Learn about Angular and how you can use it for building web apps.
+Certification to become a database administrator.
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fangular.io" alt="Logo" /> Angular](https://angular.io/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Angular](https://web.dev/angular)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcli.angular.io" alt="Logo" /> Angular - CLI](https://cli.angular.io/)
+* [ ] ["license", "https://angular.io/"]
 
 ### advice
 
-Learn about Svelte and how it can convert your component into highly efficient imperative code.
+Job information from seniors.
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte](https://svelte.dev/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Svelte FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsvelte.dev" alt="Logo" /> Svelte - Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
+* [ ] ["CareerNet", "https://www.career.go.kr/cnet/front/base/job/jobView.do?SEQ=431"]
+* [ ] ["Advice", "https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=quest_kor&logNo=220850787404"]
+* [ ] ["Advice", "https://www.workingus.com/forums/topic/dba-%EA%B0%80-%EB%90%98%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%8D%B0%EC%9A%94-%EC%A1%B0%EC%96%B8%EB%B6%80%ED%83%81%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4/"]
 
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#testing)
 
-## ➤ Testing
+## ➤ Blockchain
 
-### Testing Methodologies
+### Knowledge
 
-Learn about various software testing methodologies and why it is important to test your code.
+Learn about the overall understanding and application of blockchain.
+	
+* [ ] ["Wikipedia - Blockchain", "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"]
+* [ ] ["About Blockchain", "https://aws.amazon.com/ko/what-is/blockchain/"]
+* [ ] ["Blockchain Features", "https://www.banksalad.com/contents/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B0%9C%EB%85%90-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-dh1do"]
+* [ ] ["Glossary", "https://r-blockchain.tistory.com/30?category=957002"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Software testing](https://en.wikipedia.org/wiki/Software_testing)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsmartbear.com" alt="Logo" /> Software Testing Methodologies](https://smartbear.com/learn/automated-testing/software-testing-methodologies/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.inflectra.com" alt="Logo" /> Learn The Methods & Tools](https://www.inflectra.com/ideas/topic/testing-methodologies.aspx)
+#### Structure
 
-#### Unit Testing
+Learn about the blockchain structure.
 
-Learn about unit testing and how it can be used to test individual units of code.
+* [ ] ["Blockchain Structure", "https://990427.tistory.com/57"]
+* [ ] ["What is Block?", "https://m.upbitcare.com/academy/education/blockchain/64"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Unit testing](https://en.wikipedia.org/wiki/Unit_testing)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> What is Unit Testing?](https://www.tutorialspoint.com/software_testing_dictionary/unit_testing.htm)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> The Arrange, Act and Assert (AAA) Pattern](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
+#### Operation
 
-#### Integration Testing
+Learn about the basic operation of blockchain.
+	
+* [ ] ["bitcoin", "https://www.banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EA%B1%B0%EB%9E%98%EA%B0%80-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EA%B3%BC%EC%A0%95-L7bWb"]
+* [ ] ["Principle of operation", "https://www.nepla.net/post/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-bitcoin-%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC"]
 
-Learn about integration testing and how it can be used to test modules as a group.
+#### Forking
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Integration Testing Tutorial](https://www.guru99.com/integration-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> What is Integration Testing?](https://www.tutorialspoint.com/software_testing_dictionary/integration_testing.htm)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> Integration Testing](http://softwaretestingfundamentals.com/integration-testing/)
+A fork happens whenever a community makes a change to the blockchain’s protocol, or basic set of rules.
 
-#### System Testing
+* [ ] ["What is Forking?", "https://medium.com/grabityorg/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90%EC%84%9C-%ED%8F%AC%ED%81%AC%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-bb1be5f2d753"]
 
-Learn about system testing and how it can be used to test the fully integrated software product.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> System Testing Tutorial](https://www.guru99.com/system-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> What is System Testing?](https://www.tutorialspoint.com/software_testing_dictionary/system_testing.htm)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> System Testing](http://softwaretestingfundamentals.com/system-testing/)
-
-#### Acceptance Testing
+#### Cryptocurrencies
 
 Learn about acceptance testing and how it can be used to test the software for acceptability
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> What is User Acceptance Testing?](https://www.guru99.com/user-acceptance-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> Acceptance Testing](http://softwaretestingfundamentals.com/acceptance-testing/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> What is Acceptance Testing?](https://www.tutorialspoint.com/software_testing_dictionary/acceptance_testing.htm)
+* [ ] ["Wikipedia - Cryptocurrencies", "https://ko.wikipedia.org/wiki/%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90"]
+* [ ] ["Blockchain and Cryptocurrencies", "https://www.schroders.com/ko/kr/asset-management/insights/economic-viewpoint/cryptocurrency-and-blockchain-answering-your-clients-questions/"]
 
-#### Smoke Testing
+#### Mining and Icentive Models
+	
+Mining is the process of adding transaction details to the Blockchain, like sender address, hash value, etc.
 
-Learn about smoke testing and how it can be used to ensure that critical functionalities of the program are working fine.
+* [ ] ["What is mining?", "https://needjarvis.tistory.com/240"]
+* [ ] ["Components of Mining", "https://itpenote.tistory.com/316"]
+* [ ] ["Icentive", "https://hack-gogumang.tistory.com/564"]
+* [ ] ["Icentive issue", "https://medium.com/curg/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%9D%B8%EC%84%BC%ED%8B%B0%EB%B8%8C%EB%8A%94-%EC%A0%95%EB%A7%90%EB%A1%9C-%EA%B3%B5%EC%A0%95%ED%95%A0%EA%B9%8C-ce65c17cdf44"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Sanity Testing Vs Smoke Testing](https://www.guru99.com/smoke-sanity-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> Smoke Testing](http://softwaretestingfundamentals.com/smoke-testing/)
+#### Cryptography
 
-#### Performance Testing
+Cryptography is the practice and study of techniques for secure communication in the presence of adversarial behavior.
 
-Learn about performance testing and how it can be used to determine the responsiveness and stability of a program.
+* [ ] ["type of Cryptography", "https://www.ciokorea.com/news/215689"]
+* [ ] ["Blockchain Cryptography", "https://iforint.tistory.com/167"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Performance Testing Tutorial](https://www.guru99.com/performance-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> Performance Testing](http://softwaretestingfundamentals.com/performance-testing/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Software performance testing](https://en.wikipedia.org/wiki/Software_performance_testing)
+#### EVM Based
+	
+The Ethereum Virtual Machine (EVM) is a dedicated software virtual stack that executes smart contract bytecode and is integrated into each Ethereum node.
 
-#### Usability Testing
+* [ ] ["What is EVM?", "https://opentutorials.org/course/2869/18360"]
+* [ ] ["Working structure principle", "https://about-tech.tistory.com/entry/Blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-EVM-%EC%9E%91%EB%8F%99-%EA%B5%AC%EC%A1%B0-%EC%9B%90%EB%A6%AC"]
 
-Learn about usability testing and how it can be used to determine if the system is easily usable for the end-user.
+#### Ethereum
+	
+The Ethereum native token is the Ether (ETH), and it’s used to fuel operations on the blockchain.
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> What is Usability Testing?](https://www.guru99.com/usability-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> Usability Testing](http://softwaretestingfundamentals.com/usability-testing/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Usability testing](https://en.wikipedia.org/wiki/Usability_testing)
+* [ ] ["Ethereum page", "https://ethereum.org/ko/"]
+* [ ] ["About Ethereum", "https://kr.cointelegraph.com/ethereum-for-beginners/what-is-ethereum-a-beginners-guide-to-eth-cryptocurrency"]
+* [ ] ["Wikipedia - Ethereum", "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80"]
 
-#### White Box Testing
+#### Polygon
 
-Learn about white box testing and how it can be used to test the software's internal structure, design, and coding.
+Polygon is a scaling solution that aims to provide multiple tools to improve the speed and reduce the cost and complexities of transactions on the Ethereum blockchain.
+	
+* [ ] ["What is Polygon?", "https://www.btcc.com/ko-KR/academy/crypto-basics/what-is-polygon"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> What is White Box Testing?](https://www.guru99.com/white-box-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> White Box Testing](http://softwaretestingfundamentals.com/white-box-testing/)
+#### Smart Contracts
 
-#### Black Box Testing
+Learn about Smart Contracts and their uses.
 
-Learn about black box testing and how a test can be carried out without looking at the internal code.
+* [ ] ["What is Smart Contracts", "https://www.samsungsds.com/kr/insights/ir_blockchain_smartcontract.html"]
+* [ ] ["Status", "https://www.spri.kr/posts/view/21983?code=industry_trend"]
+* [ ] ["Wikipedia - Smart Contracts", "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8_%EA%B3%84%EC%95%BD"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> What is Black Box Testing?](https://www.guru99.com/black-box-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=http%3A%2F%2Fsoftwaretestingfundamentals.com" alt="Logo" /> Black Box Testing](http://softwaretestingfundamentals.com/black-box-testing/)
+#### Smart Framework
 
-#### Automated Testing
+Software frameworks include many of the needed features or provide easy plugin systems to pick the tools you desire.
 
-Learn about automated testing and when it should be applied.
+* [ ] ["Hardhat", "https://steemit.com/hive-101145/@happyberrysboy/happyberrysboy-posting-2021-10-27-07-06"]
+* [ ] ["Truffle", "https://bitkunst.tistory.com/entry/Ethereum%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-Truffle-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsmartbear.com" alt="Logo" /> What is Automated Testing?](https://smartbear.com/learn/automated-testing/what-is-automated-testing/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Automated Testing Tutorial](https://www.guru99.com/automation-testing.html)
+### Dapp
 
-#### Manual Testing
+A decentralised application (dApp) is an application that can operate autonomously, through the use of smart contracts that run on a blockchain.
 
-Learn about manual testing and when it should be applied.
+* [ ] ["About dApp", "https://breaker300.tistory.com/entry/DApp%EB%A7%8C%EB%93%A4%EA%B8%B01DApp%EC%9D%B4%EB%9E%80"]
+* [ ] ["Type of dApp", "https://medium.com/b-ock-chain/dapp%EC%9D%98-%EC%A2%85%EB%A5%98%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-8663c8922cd2"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> Manual Testing Tutorial](https://www.guru99.com/manual-testing.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Manual Testing](https://en.wikipedia.org/wiki/Manual_testing)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> What is Manual Testing?](https://www.tutorialspoint.com/software_testing_dictionary/manual_testing.htm)
+### NaaS
 
-### Continuous integration
+Learn about the NaaS.
 
-Learn about continuous integration and it can enable iterative software development.
+* [ ] ["What is NaaS?", "https://www.arubanetworks.com/ko/faq/what-is-naas/"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Continuous Integration Explained](https://dev.to/markoa/continuous-integration-explained-59f9)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Continuous Integration Tutorial](https://www.tutorialspoint.com/continuous_integration/index.htm)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
+### Supporting Languages
 
-### A/B Testing
+All the surrounding services that support those smart contracts (frontend, monitoring, etc.) are often written in other languages.
 
-Learn about A/B testing and how it can be used to optimize your web app.
+* [ ] ["JavaScript", "https://learnjs.vlpt.us/basics/"]
+* [ ] ["Python", "https://wikidocs.net/43"]
+* [ ] ["Go", "http://golang.site/go/basics"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - A/B testing: introduction](https://dev.to/ice_lenor/ab-testing-introduction-3jpd)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - When Not To A/B Test](https://dev.to/ice_lenor/when-not-to-ab-test-4cc7)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.optimizely.com" alt="Logo" /> A/B Testing](https://www.optimizely.com/optimization-glossary/ab-testing/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - A/B testing](https://en.wikipedia.org/wiki/A/B_testing)
+#### Oracle
 
-### Test Runners
+A blockchain oracle is a third-party service that connects smart contracts with the outside world.
 
-Learn about test runners and how they can help running tests.
+* [ ] ["Blockchain Oracle", "http://wiki.hash.kr/index.php/%EC%98%A4%EB%9D%BC%ED%81%B4_%EB%AC%B8%EC%A0%9C"]
+* [ ] ["Type of Blockchain Oracle", "https://academy.binance.com/ko/articles/blockchain-oracles-explained"]
+* [ ] ["Oracle Problem", "https://couplewith.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%98-%EC%98%A4%EB%9D%BC%ED%81%B4-%EB%AC%B8%EC%A0%9C-Oracle-Problem"]
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Famzotti.github.io" alt="Logo" /> Classifications of Testing Software](https://amzotti.github.io/testing/2015/03/16/what-is-the-difference-between-a-test-runner-testing-framework-assertion-library-and-a-testing-plugin/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.udacity.com" alt="Logo" /> Udacity - Javascript Testing](https://www.udacity.com/course/javascript-testing--ud549)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> JavaScript Unit Testing Frameworks](https://www.guru99.com/javascript-unit-testing-frameworks.html)
+#### Chainlink
 
-#### Karma
+Chainlink is a decentralized network of oracles that enables smart contracts to securely interact with real-world data and services that exist outside of blockchain networks.
 
-Learn about the Karma test runner.
+* [ ] ["About chainlink", "https://academy.binance.com/ko/articles/what-is-chainlink-link"]
+	
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fkarma-runner.github.io" alt="Logo" /> Karma](https://karma-runner.github.io/latest/index.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Getting started with Karma and Mocha](https://medium.com/@jazcodes/getting-started-with-karma-and-mocha-for-automated-browser-tests-5ebb6cd02edf)
+#### Oracle Networks
 
-#### Mocha
+Decentralized oracle networks provide an increased level of security and fairness to smart contracts.
 
-Learn about the Mocha testing framework.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmochajs.org" alt="Logo" /> Mocha](https://mochajs.org/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fblog.logrocket.com" alt="Logo" /> A quick and complete guide to Mocha testing](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodeburst.io" alt="Logo" /> How to test JavaScript with Mocha](https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e)
+* [ ] ["System Setting", "https://tommy-infosec.tistory.com/62"],
+* [ ] ["Oracle composition", "https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=native_manda&logNo=20201075682"]
 	
 
 
