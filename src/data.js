@@ -5,7 +5,7 @@ import {pwaCollection} from "./data/pwa.js";
 import {architectureCollection} from "./data/architecture-and-paradigmes.js";
 import {androidCollection} from "./data/android.js";
 import {testingCollection} from "./data/testing.js";
-import {frameworksAndLibrariesCollection} from "./data/frameworks-and-libraries.js";
+import {DataBaseAdministrationCollection} from "./data/DataBaseAdministration.js";
 import {modernCollection} from "./data/modern.js";
 import {teamCollaborationCollection} from "./data/team-collaboration.js";
 import {algorithmsCollection} from "./data/algorithms.js";
@@ -21,7 +21,7 @@ export const collections = [
 	webcomponentsCollection,
 	pwaCollection,
 	androidCollection,
-	frameworksAndLibrariesCollection,
+  DataBaseAdministrationCollection,
 	testingCollection,
 	architectureCollection,
 	teamCollaborationCollection,
