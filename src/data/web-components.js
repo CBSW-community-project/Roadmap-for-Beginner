@@ -38,7 +38,7 @@ export const webcomponentsCollection = {
               },
             },
             {
-              name: "JAVA SCRIPT",
+              name: "JAVASCRIPT",
               description: {
                 text: "LJavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
                 links: [
@@ -191,7 +191,7 @@ export const webcomponentsCollection = {
               },
             },
             {
-              name: "C#",
+              name: "C Sharp",
               description: {
                 text: "C# is a general purpose programming language made by Microsoft. It is used to perform different tasks and can be used to create web apps, games, mobile apps, etc.",
                 links: [
@@ -399,7 +399,7 @@ export const webcomponentsCollection = {
                   },
                 },
                 {
-                  name: "N+1 Problem",
+                  name: "N Problem",
                   description: {
                     text: "The N+1 query problem happens when your code executes N additional query statements to fetch the same data that could have been retrieved when executing the primary query.",
                     links: [
@@ -428,7 +428,7 @@ export const webcomponentsCollection = {
         },
 
         {
-          name: "Cash & Security & Testing",
+          name: "Cash Security Testing",
           description: {
             text: " ",
             links: [],
@@ -542,7 +542,7 @@ export const webcomponentsCollection = {
         },
 
         {
-          name: "CI/CD",
+          name: "CI CD",
           description: {
             text: "Continuous Integration/Continuous Deployment is the practice of automating building, testing, and deployment of applications with the main goal of detecting issues early, and provide quicker releases to the production environment.",
             links: [
