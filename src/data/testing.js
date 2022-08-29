@@ -124,9 +124,9 @@ export const testingCollection = {
 					description: {
 						text: "Learn about Smart Contracts and their uses.",
 						links: [
-							["dev.to - Continuous Integration Explained", "https://dev.to/markoa/continuous-integration-explained-59f9"],
-							["Continuous Integration Tutorial", "https://www.tutorialspoint.com/continuous_integration/index.htm"],
-							["Wikipedia - Continuous integration", "https://en.wikipedia.org/wiki/Continuous_integration"],
+							["What is Smart Contracts", "https://www.samsungsds.com/kr/insights/ir_blockchain_smartcontract.html"],
+							["Status", "https://www.spri.kr/posts/view/21983?code=industry_trend"],
+							["Wikipedia - Smart Contracts", "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8_%EA%B3%84%EC%95%BD"],
 						]
 					},
 				},
@@ -135,10 +135,8 @@ export const testingCollection = {
 					description: {
 						text: "Software frameworks include many of the needed features or provide easy plugin systems to pick the tools you desire.",
 						links: [
-							["dev.to - A/B testing: introduction", "https://dev.to/ice_lenor/ab-testing-introduction-3jpd"],
-							["dev.to - When Not To A/B Test", "https://dev.to/ice_lenor/when-not-to-ab-test-4cc7"],
-							["A/B Testing", "https://www.optimizely.com/optimization-glossary/ab-testing/"],
-							["Wikipedia - A/B testing", "https://en.wikipedia.org/wiki/A/B_testing"],
+							["Hardhat", "https://steemit.com/hive-101145/@happyberrysboy/happyberrysboy-posting-2021-10-27-07-06"],
+							["Truffle", "https://bitkunst.tistory.com/entry/Ethereum%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-Truffle-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC"],
 						]
 					},
 				},
