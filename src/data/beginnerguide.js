@@ -1,4 +1,4 @@
-export const fundamentalsCollection = {
+export const beginnerguideCollection = {
 	name: "Beginner's Guide",
 	areas: [
 		{
