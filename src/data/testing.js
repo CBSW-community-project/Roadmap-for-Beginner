@@ -187,9 +187,9 @@ export const testingCollection = {
 					description: {
 						text: "A blockchain oracle is a third-party service that connects smart contracts with the outside world.",
 						links: [
-							["dev.to - Continuous Integration Explained", "https://dev.to/markoa/continuous-integration-explained-59f9"],
-							["Continuous Integration Tutorial", "https://www.tutorialspoint.com/continuous_integration/index.htm"],
-							["Wikipedia - Continuous integration", "https://en.wikipedia.org/wiki/Continuous_integration"],
+							["Blockchain Oracle", "http://wiki.hash.kr/index.php/%EC%98%A4%EB%9D%BC%ED%81%B4_%EB%AC%B8%EC%A0%9C"],
+							["Type of Blockchain Oracle", "https://academy.binance.com/ko/articles/blockchain-oracles-explained"],
+							["Oracle Problem", "https://couplewith.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%98-%EC%98%A4%EB%9D%BC%ED%81%B4-%EB%AC%B8%EC%A0%9C-Oracle-Problem"],
 						]
 					},
 					skills: [
@@ -198,10 +198,7 @@ export const testingCollection = {
 							description: {
 								text: "Chainlink is a decentralized network of oracles that enables smart contracts to securely interact with real-world data and services that exist outside of blockchain networks.",
 								links: [
-									["Unit Testing Tutorial", "https://www.guru99.com/unit-testing-guide.html"],
-									["Wikipedia - Unit testing", "https://en.wikipedia.org/wiki/Unit_testing"],
-									["What is Unit Testing?", "https://www.tutorialspoint.com/software_testing_dictionary/unit_testing.htm"],
-									["The Arrange, Act and Assert (AAA) Pattern", "https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80"],
+									["About chainlink", "https://academy.binance.com/ko/articles/what-is-chainlink-link"],
 								]
 							},
 						},
@@ -210,9 +207,8 @@ export const testingCollection = {
 							description: {
 								text: "Decentralized oracle networks provide an increased level of security and fairness to smart contracts.",
 								links: [
-									["Integration Testing Tutorial", "https://www.guru99.com/integration-testing.html"],
-									["What is Integration Testing?", "https://www.tutorialspoint.com/software_testing_dictionary/integration_testing.htm"],
-									["Integration Testing", "http://softwaretestingfundamentals.com/integration-testing/"],
+									["System Setting", "https://tommy-infosec.tistory.com/62"],
+									["Oracle composition", "https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=native_manda&logNo=20201075682"],
 								]
 							}
 						}
