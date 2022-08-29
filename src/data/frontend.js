@@ -1,4 +1,4 @@
-export const accessibilityCollection = {
+export const frontendCollection = {
 	name: "FrontEnd",
 	areas: [
 		{
