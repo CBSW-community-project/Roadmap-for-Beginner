@@ -4,12 +4,12 @@ export const DataBaseAdministrationCollection = {
 		{
 			skills: [
 				{
-					name: "Postgres",
+					name: "PostgreSQL",
 					description: {
 						text: "PostgreSQL is an object-relational database system (ORDBMS).",
 						links: [
-							["Postgres Funtion", "https://d2.naver.com/helloworld/227936"],
-							["Why you should learn Postgres", "https://azure.microsoft.com/ko-kr/resources/cloud-computing-dictionary/what-is-postgresql/"],
+							["PostgreSQL Funtion", "https://d2.naver.com/helloworld/227936"],
+							["Why you should learn PostgreSQL", "https://azure.microsoft.com/ko-kr/resources/cloud-computing-dictionary/what-is-postgresql/"],
 							["PostgreSQL?", "https://kimdubi.github.io/postgresql/pg_schema/"],
 							["PostgreSQL Features", "http://www.incodom.kr/PostgreSQL"],
 						]
