@@ -150,9 +150,8 @@ export const testingCollection = {
 					description: {
 						text: "A decentralised application (dApp) is an application that can operate autonomously, through the use of smart contracts that run on a blockchain.",
 						links: [
-							["Classifications of Testing Software", "https://amzotti.github.io/testing/2015/03/16/what-is-the-difference-between-a-test-runner-testing-framework-assertion-library-and-a-testing-plugin/"],
-							["Udacity - Javascript Testing", "https://www.udacity.com/course/javascript-testing--ud549"],
-							["JavaScript Unit Testing Frameworks", "https://www.guru99.com/javascript-unit-testing-frameworks.html"]
+							["About dApp", "https://breaker300.tistory.com/entry/DApp%EB%A7%8C%EB%93%A4%EA%B8%B01DApp%EC%9D%B4%EB%9E%80"],
+							["Type of dApp", "https://medium.com/b-ock-chain/dapp%EC%9D%98-%EC%A2%85%EB%A5%98%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-8663c8922cd2"],
 						]
 					},
 					skills: [
@@ -161,8 +160,7 @@ export const testingCollection = {
 							description: {
 								text: "Learn about the NaaS.",
 								links: [
-									["Karma", "https://karma-runner.github.io/latest/index.html"],
-									["Getting started with Karma and Mocha", "https://medium.com/@jazcodes/getting-started-with-karma-and-mocha-for-automated-browser-tests-5ebb6cd02edf"],
+									["What is NaaS?", "https://www.arubanetworks.com/ko/faq/what-is-naas/"],
 								]
 							}
 						},
@@ -171,9 +169,9 @@ export const testingCollection = {
 							description: {
 								text: "All the surrounding services that support those smart contracts (frontend, monitoring, etc.) are often written in other languages.",
 								links: [
-									["Mocha", "https://mochajs.org/"],
-									["A quick and complete guide to Mocha testing", "https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/"],
-									["How to test JavaScript with Mocha", "https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e"],
+									["JavaScript", "https://learnjs.vlpt.us/basics/"],
+									["Python", "https://wikidocs.net/43"],
+									["Go", "http://golang.site/go/basics"],
 								]
 							}
 						}
