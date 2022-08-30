@@ -9,7 +9,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
 
 ## ➤ 참여하기
-본 저장소에 기여하고 싶다면 [링크]()를 참고해 주세요.
+본 저장소에 기여하고 싶다면 [링크](https://github.com/CBSW-community-project/Roadmap-for-Beginner/wiki)를 참고해 주세요.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#fundamentals)
